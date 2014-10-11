@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -40,7 +41,25 @@ namespace FixSubtitle
 
         private void btnRemoveSerbianLetters_Click(object sender, EventArgs e)
         {
+            if (chbCreateBackup.Checked)
+            {
+                File.Copy(txbSelectSubtitle.Text, txbSelectSubtitle.Text + ".bak", true);
+            }
 
+            string subtitle = File.ReadAllText(txbSelectSubtitle.Text, Encoding.Default);
+            subtitle = subtitle.Replace((Char)230, 'c'); //c'
+            subtitle = subtitle.Replace((Char)232, 'c'); //c"
+            subtitle = subtitle.Replace((Char)158, 'z'); //z"
+            subtitle = subtitle.Replace((Char)154, 's'); //s"
+            subtitle = subtitle.Replace(new String((Char)240, 1), "dj"); //dj
+            subtitle = subtitle.Replace((Char)198, 'C'); //C'
+            subtitle = subtitle.Replace((Char)200, 'C'); //C"
+            subtitle = subtitle.Replace((Char)142, 'Z'); //Z"
+            subtitle = subtitle.Replace((Char)138, 'S'); //S"
+            subtitle = subtitle.Replace(new String((Char)208, 1), "DJ"); //DJ
+            File.WriteAllText(txbSelectSubtitle.Text, subtitle, Encoding.Default);
+
+            MessageBox.Show("Job done.", "Success", MessageBoxButtons.OK);
         }
     }
 }

@@ -32,6 +32,7 @@
             this.txbSelectSubtitle = new System.Windows.Forms.TextBox();
             this.btnSelectSubtitle = new System.Windows.Forms.Button();
             this.btnRemoveSerbianLetters = new System.Windows.Forms.Button();
+            this.chbCreateBackup = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // lblSelectSubtitle
@@ -70,11 +71,24 @@
             this.btnRemoveSerbianLetters.UseVisualStyleBackColor = true;
             this.btnRemoveSerbianLetters.Click += new System.EventHandler(this.btnRemoveSerbianLetters_Click);
             // 
+            // chbCreateBackup
+            // 
+            this.chbCreateBackup.AutoSize = true;
+            this.chbCreateBackup.Checked = true;
+            this.chbCreateBackup.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chbCreateBackup.Location = new System.Drawing.Point(31, 81);
+            this.chbCreateBackup.Name = "chbCreateBackup";
+            this.chbCreateBackup.Size = new System.Drawing.Size(96, 17);
+            this.chbCreateBackup.TabIndex = 4;
+            this.chbCreateBackup.Text = "Create backup";
+            this.chbCreateBackup.UseVisualStyleBackColor = true;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(506, 117);
+            this.Controls.Add(this.chbCreateBackup);
             this.Controls.Add(this.btnRemoveSerbianLetters);
             this.Controls.Add(this.btnSelectSubtitle);
             this.Controls.Add(this.txbSelectSubtitle);
@@ -92,6 +106,7 @@
         private System.Windows.Forms.TextBox txbSelectSubtitle;
         private System.Windows.Forms.Button btnSelectSubtitle;
         private System.Windows.Forms.Button btnRemoveSerbianLetters;
+        private System.Windows.Forms.CheckBox chbCreateBackup;
     }
 }
 

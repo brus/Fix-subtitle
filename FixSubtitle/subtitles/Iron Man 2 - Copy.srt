@@ -1,21 +1,21 @@
 1
 00:00:09,507 --> 00:00:11,801
-<i>Vež dosta dugo
+<i>Veæ dosta dugo
 nisam bio pred vama.</i>
 
 2
 00:00:11,926 --> 00:00:14,971
 <i>Možda bolje da se držim teksta,
-da nam svima ucinim uslugu.</i>
+da nam svima uèinim uslugu.</i>
 
 3
 00:00:18,057 --> 00:00:20,726
-<i>Nagadja se da sam imao veze
-s dogadjajima koji su se zbili...</i>
+<i>Nagaða se da sam imao veze
+s dogaðajima koji su se zbili...</i>
 
 4
 00:00:22,353 --> 00:00:25,356
-<i>G. Stark, zar stvarno ocekujete
+<i>G. Stark, zar stvarno oèekujete
 da povjerujemo kako je</i>
 
 5
@@ -25,7 +25,7 @@ koji se pojavio baš kad je trebalo,</i>
 
 6
 00:00:29,151 --> 00:00:31,821
-<i>usprkos cinjenici
+<i>usprkos èinjenici
 da vi prezirete tjelohranitelje?</i>
 
 7
@@ -60,8 +60,8 @@ ili insinuirati da sam superjunak.</i>
 
 14
 00:00:53,300 --> 00:00:56,554
-<i>Hocu reci, priznajmo si to.
-Nisam junacki tip.</i>
+<i>Hoæu reæi, priznajmo si to.
+Nisam junaèki tip.</i>
 
 15
 00:00:56,679 --> 00:00:58,848
@@ -101,12 +101,12 @@ Mogu ti dati samo svoje znanje.
 
 24
 00:05:04,717 --> 00:05:08,346
-<i>Vjetar 30 cvorova.
+<i>Vjetar 30 èvorova.
 Držimo se na 4.500 metara.</i>
 
 25
 00:05:08,471 --> 00:05:11,766
-<i>Odobren izlazak iznad zone izbacaja.</i>
+<i>Odobren izlazak iznad zone izbaèaja.</i>
 
 26
 00:05:11,891 --> 00:05:16,604
@@ -128,11 +128,11 @@ Uželjeli ste me se.
 
 30
 00:07:16,474 --> 00:07:20,603
-Vec jesam.
+Veæ jesam.
 
 31
 00:07:20,728 --> 00:07:23,939
-Ne želim reci da svijet uživa
+Ne želim reæi da svijet uživa
 
 32
 00:07:24,065 --> 00:07:28,194
@@ -141,22 +141,22 @@ u novijoj povijesti zbog mene.
 
 33
 00:07:31,197 --> 00:07:36,911
-Ne želim reci
+Ne želim reæi
 da se iz pepela zarobljeništva
 
 34
 00:07:37,578 --> 00:07:42,041
 u ljudskoj povijesti dosad nije
-utjelovila veca metafora feniksa.
+utjelovila veæa metafora feniksa.
 
 35
 00:07:45,169 --> 00:07:51,050
-Ne želim reci da se Ujak Sam
+Ne želim reæi da se Ujak Sam
 sada može zavaliti na vrtnoj ležaljci
 
 36
 00:07:51,175 --> 00:07:52,760
-i pijuckati ledeni caj,
+i pijuckati ledeni èaj,
 
 37
 00:07:52,885 --> 00:07:55,888
@@ -181,17 +181,17 @@ Nije stvar u vama.
 
 42
 00:08:12,196 --> 00:08:15,115
-Nije cak ni u nama.
+Nije èak ni u nama.
 Nego u ostavštini.
 
 43
 00:08:15,991 --> 00:08:18,953
-onome što odlucujemo
-ostaviti buducim naraštajima,
+onome što odluèujemo
+ostaviti buduæim naraštajima,
 
 44
 00:08:19,078 --> 00:08:23,165
-Zato ce iducih godinu dana,
+Zato æe iduæih godinu dana,
 i po prvi put nakon 1974.,
 
 45
@@ -205,12 +205,12 @@ iz svjetskih država i korporacija
 47
 00:08:27,836 --> 00:08:31,298
 objediniti resurse
-i spregnuti zajednicku viziju
+i spregnuti zajednièku viziju
 
 48
 00:08:31,423 --> 00:08:34,426
 kako bi za sobom ostavili
-svjetliju buducnost
+svjetliju buduænost
 
 49
 00:08:34,551 --> 00:08:36,261
@@ -218,8 +218,8 @@ koja se ne bavi samo nama.
 
 50
 00:08:37,054 --> 00:08:40,307
-Zbog toga, želim vam reci,
-ako vam išta želim reci, ovo:
+Zbog toga, želim vam reæi,
+ako vam išta želim reæi, ovo:
 
 51
 00:08:40,432 --> 00:08:42,935
@@ -239,7 +239,7 @@ Pozdravite, molim, mog oca Howarda.
 
 55
 00:08:56,824 --> 00:08:59,743
-<i>Sve se može postici tehnologijom.</i>
+<i>Sve se može postiæi tehnologijom.</i>
 
 56
 00:08:59,868 --> 00:09:02,121
@@ -248,7 +248,7 @@ Pozdravite, molim, mog oca Howarda.
 57
 00:09:02,663 --> 00:09:07,167
 <i>i prvi put u ljudskoj povijesti
-mogucnost mira u svijetu.</i>
+moguænost mira u svijetu.</i>
 
 58
 00:09:07,292 --> 00:09:09,169
@@ -257,21 +257,21 @@ mogucnost mira u svijetu.</i>
 59
 00:09:09,294 --> 00:09:14,049
 <i>volio bih vam predstaviti
-Grad buducnosti.</i>
+Grad buduænosti.</i>
 
 60
 00:09:14,174 --> 00:09:17,886
-<i>Tehnologija covjecanstvu
-nudi bezgranicne mogucnosti.</i>
+<i>Tehnologija èovjeèanstvu
+nudi bezgraniène moguænosti.</i>
 
 61
 00:09:20,931 --> 00:09:24,476
-<i>Uskoro ce tehnologija utjecati
+<i>Uskoro æe tehnologija utjecati
 na vaš svakodnevni život.</i>
 
 62
 00:09:24,601 --> 00:09:26,144
-<i>Kraj zamornog posla ostavit ce vam</i>
+<i>Kraj zamornog posla ostavit æe vam</i>
 
 63
 00:09:26,478 --> 00:09:30,857
@@ -294,7 +294,7 @@ upravo sišao s pozornice.</i>
 
 67
 00:09:44,871 --> 00:09:46,415
-<i>Bez brige, ako veceras ne možete doci,</i>
+<i>Bez brige, ako veèeras ne možete doæi,</i>
 
 68
 00:09:46,540 --> 00:09:48,917
@@ -302,7 +302,7 @@ upravo sišao s pozornice.</i>
 
 69
 00:09:49,042 --> 00:09:51,003
-<i>Izvještavat cu
+<i>Izvještavat æu
 o svim ovdašnjim atrakcijama</i>
 
 70
@@ -320,7 +320,7 @@ Otvori. Idemo.
 
 73
 00:10:00,220 --> 00:10:02,723
-Tebe se sjecam.
+Tebe se sjeæam.
 
 74
 00:10:04,474 --> 00:10:06,893
@@ -389,7 +389,7 @@ A ti si?
 
 89
 00:10:31,543 --> 00:10:33,462
-Irsko. Svidja mi se.
+Irsko. Sviða mi se.
 - Drago mi je.
 
 90
@@ -408,11 +408,11 @@ Tražim tebe.
 93
 00:10:41,303 --> 00:10:44,389
 Što radiš kasnije?
-- Urucujem pozive za sud.
+- Uruèujem pozive za sud.
 
 94
 00:10:46,892 --> 00:10:48,018
-Ne voli kad mu se urucuje.
+Ne voli kad mu se uruèuje.
 
 95
 00:10:48,143 --> 00:10:49,686
@@ -420,7 +420,7 @@ To me baš živcira.
 
 96
 00:10:49,811 --> 00:10:50,896
-Morate izaci
+Morate izaæi
 
 97
 00:10:51,021 --> 00:10:53,231
@@ -432,16 +432,16 @@ sutra u 9 ujutro.
 
 99
 00:10:55,108 --> 00:10:56,651
-Smijem vidjeti znacku?
-- Znacku.
+Smijem vidjeti znaèku?
+- Znaèku.
 
 100
 00:10:56,776 --> 00:10:59,029
-Svidja mu se znacka.
+Sviða mu se znaèka.
 
 101
 00:10:59,154 --> 00:11:01,156
-Još ti se svidja?
+Još ti se sviða?
 - Aha.
 
 102
@@ -515,7 +515,7 @@ Iron Man
 
 117
 00:11:49,454 --> 00:11:52,791
-americkome narodu.
+amerièkome narodu.
 - Slobodno zaboravite na to.
 
 118
@@ -526,7 +526,7 @@ Odijelo i ja smo cjelina.
 119
 00:11:57,253 --> 00:11:59,672
 Predati odijelo
-znacilo bi predati mene samoga,
+znaèilo bi predati mene samoga,
 
 120
 00:11:59,797 --> 00:12:02,759
@@ -535,12 +535,12 @@ ili, ovisno o saveznoj državi,
 
 121
 00:12:02,884 --> 00:12:04,511
-cak prostitucija.
+èak prostitucija.
 
 122
 00:12:04,636 --> 00:12:07,555
 Ne možete ga dobiti.
-- Cujte, nisam strucnjak za to.
+- Èujte, nisam struènjak za to.
 
 123
 00:12:07,680 --> 00:12:11,434
@@ -549,11 +549,11 @@ Pa jasno. Vi ste senator!
 
 124
 00:12:12,393 --> 00:12:14,854
-Nisam strucnjak za oružje.
+Nisam struènjak za oružje.
 
 125
 00:12:14,979 --> 00:12:16,731
-Ali ovdje imamo jednog strucnjaka.
+Ali ovdje imamo jednog struènjaka.
 
 126
 00:12:16,898 --> 00:12:19,108
@@ -562,11 +562,11 @@ Pozivam Justina Hammera,
 127
 00:12:19,233 --> 00:12:21,611
 u ovom trenutku našega
-primarnog proizvodjaca oružja.
+primarnog proizvoðaèa oružja.
 
 128
 00:12:22,654 --> 00:12:26,115
-Molim da udje u zapisnik kako sam
+Molim da uðe u zapisnik kako sam
 primijetio ulazak gospodina Hammera,
 
 129
@@ -575,17 +575,17 @@ pa se sada pitam
 
 130
 00:12:27,659 --> 00:12:31,371
-hoce li nam se, i kada,
-pridružiti neki stvarni strucnjak.
+hoæe li nam se, i kada,
+pridružiti neki stvarni struènjak.
 
 131
 00:12:35,333 --> 00:12:39,629
-Apsolutno, ja nisam strucnjak.
+Apsolutno, ja nisam struènjak.
 Skidam ti kapu, Anthony.
 
 132
 00:12:39,754 --> 00:12:41,714
-Ti si cudo od djeteta.
+Ti si èudo od djeteta.
 
 133
 00:12:41,839 --> 00:12:43,925
@@ -593,8 +593,8 @@ Senatore, ako smijem.
 
 134
 00:12:44,050 --> 00:12:48,471
-Možda nisam strucnjak,
-ali znaš li tko je bio pravi strucnjak?
+Možda nisam struènjak,
+ali znaš li tko je bio pravi struènjak?
 
 135
 00:12:48,596 --> 00:12:51,182
@@ -608,7 +608,7 @@ kao i vojno-industrijskog doba.
 137
 00:12:56,312 --> 00:13:00,817
 Ali, nek bude jasno:
-Nije on bio dijete cvijeca. Bio je lav.
+Nije on bio dijete cvijeæa. Bio je lav.
 
 138
 00:13:00,942 --> 00:13:03,319
@@ -617,17 +617,17 @@ U proteklih šest mjeseci
 
 139
 00:13:03,444 --> 00:13:07,532
-Anthony Stark stvorio je mac
+Anthony Stark stvorio je maè
 neizrecivih potencijala.
 
 140
 00:13:07,657 --> 00:13:10,451
-A svejedno tvrdi kako je rijec o štitu.
+A svejedno tvrdi kako je rijeè o štitu.
 
 141
 00:13:10,576 --> 00:13:15,164
 Traži da se pouzdamo u njega
-dok dršcemo u njegovu zaklonu.
+dok dršæemo u njegovu zaklonu.
 
 142
 00:13:15,289 --> 00:13:18,501
@@ -637,7 +637,7 @@ Iskreno bih volio.
 143
 00:13:18,626 --> 00:13:21,712
 Volio bih ostavljati
-nezakljucana vrata kuce.
+nezakljuèana vrata kuæe.
 
 144
 00:13:21,838 --> 00:13:23,256
@@ -650,7 +650,7 @@ Ali ovo nije Kanada.
 146
 00:13:25,132 --> 00:13:28,844
 Prijetnji koje g. Stark
-nece moci predvidjeti.
+neæe moæi predvidjeti.
 
 147
 00:13:29,971 --> 00:13:31,347
@@ -658,12 +658,12 @@ Hvala.
 
 148
 00:13:31,472 --> 00:13:34,183
-Bože, cuvaj iron Mana.
-Bože, cuvaj Ameriku.
+Bože, èuvaj iron Mana.
+Bože, èuvaj Ameriku.
 
 149
 00:13:35,309 --> 00:13:37,395
-Lijepo receno, g. Hammer.
+Lijepo reèeno, g. Hammer.
 
 150
 00:13:37,520 --> 00:13:39,438
@@ -672,7 +672,7 @@ Odbor sada poziva
 151
 00:13:39,563 --> 00:13:42,650
 pukovnika Jamesa Rhodesa
-na svjedocenje.
+na svjedoèenje.
 
 152
 00:13:42,775 --> 00:13:44,235
@@ -680,8 +680,8 @@ Rhodey?
 
 153
 00:13:50,616 --> 00:13:53,828
-Hej, stari. Nisam ocekivao
-da cu tebe ovdje sresti.
+Hej, stari. Nisam oèekivao
+da æu tebe ovdje sresti.
 
 154
 00:13:53,953 --> 00:13:56,539
@@ -702,16 +702,16 @@ imam puni izvještaj o oružju Iron Man,
 
 158
 00:14:02,920 --> 00:14:05,589
-djelo puk. Rhodesa. Pukovnice,
+djelo puk. Rhodesa. Pukovnièe,
 
 159
 00:14:05,673 --> 00:14:08,759
-biste li procitali str. 57,
-cl. 4 za zapisnik?
+biste li proèitali str. 57,
+èl. 4 za zapisnik?
 
 160
 00:14:08,884 --> 00:14:11,137
-Tražite da procitam odredjene dijelove
+Tražite da proèitam odreðene dijelove
 
 161
 00:14:11,262 --> 00:14:12,513
@@ -719,11 +719,11 @@ svojeg izvještaja?
 
 162
 00:14:12,638 --> 00:14:14,515
-Mislio sam da cu svjedociti
+Mislio sam da æu svjedoèiti
 
 163
 00:14:14,640 --> 00:14:16,767
-na sveobuhvatniji nacin...
+na sveobuhvatniji naèin...
 
 164
 00:14:16,892 --> 00:14:18,477
@@ -731,7 +731,7 @@ na sveobuhvatniji nacin...
 
 165
 00:14:18,602 --> 00:14:19,854
-Citanje jednog ulomka
+Èitanje jednog ulomka
 
 166
 00:14:19,979 --> 00:14:22,356
@@ -739,7 +739,7 @@ izvan konteksta ne odražava...
 
 167
 00:14:22,481 --> 00:14:25,693
-Samo ga procitajte, pukovnice. Hvala.
+Samo ga proèitajte, pukovnièe. Hvala.
 
 168
 00:14:26,819 --> 00:14:28,154
@@ -752,7 +752,7 @@ bilo koje grane vlasti,"
 
 170
 00:14:35,411 --> 00:14:39,498
-"Iron Man je moguca prijetnja
+"Iron Man je moguæa prijetnja
 sigurnosti naše zemlje,"
 
 171
@@ -782,11 +782,11 @@ u zapovjedni lanac.
 
 177
 00:14:51,010 --> 00:14:52,136
-Ne volim se uclanjivati,
+Ne volim se uèlanjivati,
 
 178
 00:14:52,261 --> 00:14:54,346
-ali uzet cu ministra obrane
+ali uzet æu ministra obrane
 u obzir ako me lijepo zamolite.
 
 179
@@ -804,7 +804,7 @@ pridodane vašem izvještaju.
 182
 00:15:01,895 --> 00:15:04,732
 Držim da je prerano otkriti
-ovu slikovnu gradju
+ovu slikovnu graðu
 
 183
 00:15:04,857 --> 00:15:06,609
@@ -812,7 +812,7 @@ ovu slikovnu gradju
 
 184
 00:15:06,734 --> 00:15:07,901
-Pukovnice, shvacam.
+Pukovnièe, shvaæam.
 
 185
 00:15:08,027 --> 00:15:12,072
@@ -844,12 +844,12 @@ kao i lokalni obavještajci,</i>
 
 191
 00:15:28,547 --> 00:15:33,635
-<i>navodeci da su ova odijela
+<i>navodeæi da su ova odijela
 spremna za bojno korištenje.</i>
 
 192
 00:15:34,094 --> 00:15:37,723
-Samo casak. Ima tu necega.
+Samo èasak. Ima tu neèega.
 
 193
 00:15:38,348 --> 00:15:41,268
@@ -868,15 +868,15 @@ Da vidimo što se zaista zbiva.
 
 196
 00:15:46,940 --> 00:15:50,152
-Obratite pozornost na doticne ekrane.
+Obratite pozornost na dotiène ekrane.
 
 197
 00:15:50,277 --> 00:15:51,820
-Cini mi se da je ovo Sjeverna Koreja.
+Èini mi se da je ovo Sjeverna Koreja.
 
 198
 00:16:00,078 --> 00:16:02,915
-Možete li to iskljuciti?
+Možete li to iskljuèiti?
 Ugasite ga nekako.
 
 199
@@ -907,7 +907,7 @@ Sad udesno.</i>
 
 205
 00:16:28,815 --> 00:16:32,611
-Eto, rekao bih da je vecina
+Eto, rekao bih da je veæina
 zemalja na 5, 10 godina odatle.
 
 206
@@ -921,12 +921,12 @@ da je pokusni pilot preživio.
 
 208
 00:16:36,823 --> 00:16:38,325
-On želi reci da je ovo kraj rasprave.
+On želi reæi da je ovo kraj rasprave.
 
 209
 00:16:38,450 --> 00:16:41,620
 Mislim da nema razloga...
-- Nema na cemu.
+- Nema na èemu.
 
 210
 00:16:41,745 --> 00:16:44,539
@@ -935,7 +935,7 @@ Kako to?
 
 211
 00:16:44,706 --> 00:16:47,167
-Sigurni smo. Amerika je zašticena.
+Sigurni smo. Amerika je zaštiæena.
 
 212
 00:16:47,292 --> 00:16:49,169
@@ -943,7 +943,7 @@ Sigurni smo. Amerika je zašticena.
 
 213
 00:16:49,294 --> 00:16:50,629
-Ali ucinio sam vam veliku uslugu!
+Ali uèinio sam vam veliku uslugu!
 
 214
 00:16:51,463 --> 00:16:54,299
@@ -976,7 +976,7 @@ Baš ste bili krasni.
 
 221
 00:17:19,658 --> 00:17:24,829
-<i>i služit cu ovoj velikoj naciji
+<i>i služit æu ovoj velikoj naciji
 na svoje... zadovoljstvo.</i>
 
 222
@@ -985,7 +985,7 @@ na svoje... zadovoljstvo.</i>
 
 223
 00:17:26,665 --> 00:17:29,960
-<i>Može se racunati s tim
+<i>Može se raèunati s tim
 da volim zadovoljavati sebe.</i>
 
 224
@@ -994,15 +994,15 @@ MALIBU, KALIFORNIJA
 
 225
 00:18:05,704 --> 00:18:07,163
-Budjenje. Tata se vratio.
+Buðenje. Tata se vratio.
 
 226
 00:18:07,288 --> 00:18:08,832
-<i>Dobrodošli kuci, gospodine.</i>
+<i>Dobrodošli kuæi, gospodine.</i>
 
 227
 00:18:08,957 --> 00:18:10,792
-<i>Cestitam na ceremoniji otvaranja.</i>
+<i>Èestitam na ceremoniji otvaranja.</i>
 
 228
 00:18:10,917 --> 00:18:13,920
@@ -1023,7 +1023,7 @@ Ti!
 
 232
 00:18:23,263 --> 00:18:25,431
-Kunem se, rastavit cu te
+Kunem se, rastavit æu te
 
 233
 00:18:25,557 --> 00:18:28,101
@@ -1052,7 +1052,7 @@ Provjeri razine paladija.
 
 239
 00:18:44,784 --> 00:18:47,120
-<i>Cini se da vam stalna uporaba
+<i>Èini se da vam stalna uporaba
 odijela iron Man</i>
 
 240
@@ -1095,11 +1095,11 @@ koja vas drži na životu</i>
 
 249
 00:19:20,695 --> 00:19:22,071
-<i>Došla je gdjica Potts.</i>
+<i>Došla je gðica Potts.</i>
 
 250
 00:19:22,196 --> 00:19:25,074
-<i>Preporucam da je obavijestite...
+<i>Preporuèam da je obavijestite...
 - Stišaj.</i>
 
 251
@@ -1120,7 +1120,7 @@ i da se ti nešto ljutiš na mene.
 
 255
 00:19:37,754 --> 00:19:39,088
-Ti si to prehladjena?
+Ti si to prehlaðena?
 
 256
 00:19:39,213 --> 00:19:40,590
@@ -1133,7 +1133,7 @@ suvremene umjetnosti...
 
 258
 00:19:44,343 --> 00:19:45,928
-Savezu izvidjaca Amerike.
+Savezu izviðaèa Amerike.
 
 259
 00:19:46,053 --> 00:19:47,805
@@ -1141,7 +1141,7 @@ To je vrijedna organizacija.
 
 260
 00:19:47,930 --> 00:19:51,267
-Nisam fizicki pregledao sanduke, ali, da.
+Nisam fizièki pregledao sanduke, ali, da.
 
 261
 00:19:51,392 --> 00:19:53,519
@@ -1149,7 +1149,7 @@ I to je moja zbirka, a ne naša.
 
 262
 00:19:53,644 --> 00:19:55,646
-Mislim da imam pravo reci
+Mislim da imam pravo reæi
 
 263
 00:19:55,771 --> 00:19:57,315
@@ -1167,7 +1167,7 @@ bila njezin kustos.
 
 266
 00:20:02,653 --> 00:20:05,698
-Ima osam tisuca jedanaest stvari
+Ima osam tisuæa jedanaest stvari
 
 267
 00:20:05,823 --> 00:20:07,742
@@ -1252,7 +1252,7 @@ Dobro.
 
 286
 00:20:47,990 --> 00:20:51,077
-Kažem, vec smo dodijelili ugovore
+Kažem, veæ smo dodijelili ugovore
 
 287
 00:20:51,202 --> 00:20:52,828
@@ -1262,11 +1262,11 @@ ljudima s farmom vjetra...
 288
 00:20:52,953 --> 00:20:54,997
 Od toga mi se priprdi.
-- ... i plantaži plasticnih stabala,
+- ... i plantaži plastiènih stabala,
 
 289
 00:20:55,122 --> 00:20:57,208
-cega si se ti sjetio.
+èega si se ti sjetio.
 
 290
 00:20:57,333 --> 00:20:59,084
@@ -1283,12 +1283,12 @@ Dosadna je! Upozoravam te: Dosada.
 293
 00:21:03,464 --> 00:21:05,716
 Daj se ti toga primi.
-- Cega da se primim?
+- Èega da se primim?
 
 294
 00:21:05,841 --> 00:21:07,760
 Upravo sam to shvatio.
-Ti se primi vodjenja kompanije.
+Ti se primi voðenja kompanije.
 
 295
 00:21:07,885 --> 00:21:10,638
@@ -1313,7 +1313,7 @@ Trudim se to raditi.
 
 300
 00:21:18,354 --> 00:21:20,231
-Hocu te postaviti za CEO-a!
+Hoæu te postaviti za CEO-a!
 
 301
 00:21:20,356 --> 00:21:22,191
@@ -1361,7 +1361,7 @@ To si ti. Oduvijek si to ti.
 
 311
 00:21:59,019 --> 00:22:00,104
-Mislio sam da ce biti pravnih prepreka,
+Mislio sam da æe biti pravnih prepreka,
 
 312
 00:22:00,229 --> 00:22:03,649
@@ -1370,11 +1370,11 @@ imenovati svog nasljednika,
 
 313
 00:22:04,400 --> 00:22:06,360
-drugim rijecima, tebe.
+drugim rijeèima, tebe.
 
 314
 00:22:08,570 --> 00:22:10,197
-Cestitam.
+Èestitam.
 
 315
 00:22:11,990 --> 00:22:13,534
@@ -1387,7 +1387,7 @@ Ne misli. Pij.
 
 317
 00:23:02,666 --> 00:23:05,877
-Pravnica je stigla! Možeš li doci
+Pravnica je stigla! Možeš li doæi
 potpisati papire o prijenosu?
 
 318
@@ -1401,7 +1401,7 @@ Oprosti.
 
 320
 00:23:15,470 --> 00:23:17,848
-Zove se miješane borilacke vještine.
+Zove se miješane borilaèke vještine.
 Nova stvar.
 
 321
@@ -1411,12 +1411,12 @@ Nije ništa novo.
 
 322
 00:23:25,272 --> 00:23:30,110
-Obecavam da nikad više necu tražiti
+Obeæavam da nikad više neæu tražiti
 da prepišeš kompaniju na mene.
 
 323
 00:23:31,361 --> 00:23:33,697
-Inicijale u svaku kucicu.
+Inicijale u svaku kuæicu.
 
 324
 00:23:34,322 --> 00:23:37,033
@@ -1433,7 +1433,7 @@ Kako se zoveš, mlada damo?
 
 327
 00:23:43,165 --> 00:23:44,708
-Udji u crkvu.
+Uði u crkvu.
 
 328
 00:23:44,833 --> 00:23:48,587
@@ -1443,7 +1443,7 @@ Ne misliš valjda ozbiljno...
 329
 00:23:48,712 --> 00:23:52,007
 Nije mi problem.
-- Žao mi je. Vrlo je ekscentrican.
+- Žao mi je. Vrlo je ekscentrièan.
 
 330
 00:24:05,604 --> 00:24:06,730
@@ -1470,18 +1470,18 @@ zbog seksualnog napastovanja,
 
 335
 00:24:23,163 --> 00:24:25,290
-ako ne oguglaš na njene cari.
+ako ne oguglaš na njene èari.
 - Treba mi nova asistentica.
 
 336
 00:24:25,415 --> 00:24:28,168
-Vec sam ti priredila tri izvrsne
+Veæ sam ti priredila tri izvrsne
 potencijalne kandidatkinje.
 
 337
 00:24:29,919 --> 00:24:32,756
 Nemam vremena. Treba mi odmah.
-Osjecam da je to ona.
+Osjeæam da je to ona.
 
 338
 00:24:32,881 --> 00:24:33,923
@@ -1489,7 +1489,7 @@ Ne, nije.
 
 339
 00:24:34,049 --> 00:24:35,800
-Jesi li vec boksala?
+Jesi li veæ boksala?
 - Jesam.
 
 340
@@ -1504,7 +1504,7 @@ Kako ti se piše prezime, Natalie?
 
 342
 00:24:43,850 --> 00:24:48,188
-Guglat ceš je?
+Guglat æeš je?
 - Nisam još oguglao na nju.
 
 343
@@ -1514,7 +1514,7 @@ Opa. Vrlo dojmljiva osoba.
 
 344
 00:24:52,066 --> 00:24:54,194
-Tecno govori francuski, talijanski,
+Teèno govori francuski, talijanski,
 ruski, latinski.
 
 345
@@ -1528,7 +1528,7 @@ To je mrtav jezik.
 
 347
 00:24:58,698 --> 00:25:00,408
-Cita se ili piše, ali ne govori se.
+Èita se ili piše, ali ne govori se.
 
 348
 00:25:00,533 --> 00:25:02,076
@@ -1562,7 +1562,7 @@ Ma poskliznuo sam se.
 
 355
 00:25:18,259 --> 00:25:20,553
-Meni izgleda kao tehnicki nokaut.
+Meni izgleda kao tehnièki nokaut.
 
 356
 00:25:22,931 --> 00:25:25,099
@@ -1574,7 +1574,7 @@ Mirna si, rezervirana. Stara si duša.
 
 358
 00:25:28,061 --> 00:25:30,521
-Hocu reci, otisak. Prsta.
+Hoæu reæi, otisak. Prsta.
 
 359
 00:25:33,399 --> 00:25:36,861
@@ -1597,7 +1597,7 @@ Hvala vam najljepša.
 
 363
 00:25:48,331 --> 00:25:49,957
-Hocu jednu takvu.
+Hoæu jednu takvu.
 - Ne.
 
 364
@@ -1654,7 +1654,7 @@ Ovuda.
 
 376
 00:26:45,137 --> 00:26:46,806
-Izgledaš fantasticno.
+Izgledaš fantastièno.
 - Hvala.
 
 377
@@ -1664,11 +1664,11 @@ Ali to nije profesionalno od mene.
 
 378
 00:26:48,849 --> 00:26:50,726
-Imate veceru u 9.30.
+Imate veèeru u 9.30.
 
 379
 00:26:50,851 --> 00:26:52,561
-Doci cu u 11.
+Doæi æu u 11.
 
 380
 00:26:52,687 --> 00:26:54,480
@@ -1685,17 +1685,17 @@ Gospodine Musk, kako ste?
 
 383
 00:26:58,901 --> 00:27:00,736
-Cestitam na promaknucu.
+Èestitam na promaknuæu.
 - Hvala.
 
 384
 00:27:00,861 --> 00:27:03,072
-Elone, fantasticni su ti oni motori Merlin.
+Elone, fantastièni su ti oni motori Merlin.
 
 385
 00:27:03,197 --> 00:27:05,157
 Hvala. Imam ideju
-za elektricni mlažnjak.
+za elektrièni mlažnjak.
 
 386
 00:27:05,324 --> 00:27:06,325
@@ -1703,11 +1703,11 @@ Je li?
 
 387
 00:27:06,492 --> 00:27:08,452
-Onda cemo je ostvariti,
+Onda æemo je ostvariti,
 
 388
 00:27:08,869 --> 00:27:10,287
-Hoceš masažu?
+Hoæeš masažu?
 
 389
 00:27:10,413 --> 00:27:11,831
@@ -1715,11 +1715,11 @@ Natalie ti je može ugovoriti.
 
 390
 00:27:11,998 --> 00:27:13,332
-Necu ništa od Natalie.
+Neæu ništa od Natalie.
 
 391
 00:27:13,499 --> 00:27:14,625
-Nisam te mislio zaskociti.
+Nisam te mislio zaskoèiti.
 
 392
 00:27:15,918 --> 00:27:17,837
@@ -1731,7 +1731,7 @@ Anthony! Jesi li to ti?
 
 394
 00:27:19,588 --> 00:27:20,840
-Meni najmanje drag covjek na svijetu.
+Meni najmanje drag èovjek na svijetu.
 
 395
 00:27:21,006 --> 00:27:22,216
@@ -1767,12 +1767,12 @@ Nova CEO Stark Industriesa.
 
 402
 00:27:35,688 --> 00:27:36,897
-Cestitam.
+Èestitam.
 
 403
 00:27:37,022 --> 00:27:40,484
-Urednica ce me ubiti ako ne uzmem
-citat za naš broj o mocnim ženama.
+Urednica æe me ubiti ako ne uzmem
+citat za naš broj o moænim ženama.
 
 404
 00:27:41,861 --> 00:27:44,280
@@ -1781,7 +1781,7 @@ o meni za Vanity Fair.
 
 405
 00:27:44,405 --> 00:27:46,323
-Pa da joj ucinim protuuslugu.
+Pa da joj uèinim protuuslugu.
 
 406
 00:27:47,575 --> 00:27:50,911
@@ -1790,7 +1790,7 @@ i s Tonyjem poštenu duplericu.
 
 407
 00:27:51,036 --> 00:27:52,329
-A napisala je i clanak.
+A napisala je i èlanak.
 
 408
 00:27:52,454 --> 00:27:54,456
@@ -1818,7 +1818,7 @@ Predivan si.
 
 413
 00:28:01,213 --> 00:28:03,757
-Znaci, ovo je prvi put da se...
+Znaèi, ovo je prvi put da se...
 
 414
 00:28:03,883 --> 00:28:05,342
@@ -1838,11 +1838,11 @@ Nakon što su mu otkazali ugovor?
 
 418
 00:28:12,057 --> 00:28:14,184
-Zapravo, na cekanju je.
+Zapravo, na èekanju je.
 
 419
 00:28:14,310 --> 00:28:16,270
-Koja je razlika izmedju "cekanja"
+Koja je razlika izmeðu "èekanja"
 
 420
 00:28:16,395 --> 00:28:18,188
@@ -1863,7 +1863,7 @@ Ako izumiš nešto što radi,
 
 424
 00:28:27,323 --> 00:28:28,699
-ugurat cu te nekako.
+ugurat æu te nekako.
 
 425
 00:28:28,824 --> 00:28:30,993
@@ -1871,7 +1871,7 @@ Stol u uglu vam je spreman.
 
 426
 00:28:31,118 --> 00:28:33,287
-Zapravo, vec sam se
+Zapravo, veæ sam se
 ugurao ove godine.
 
 427
@@ -1904,12 +1904,12 @@ za Hammer Industries.
 433
 00:29:21,793 --> 00:29:25,047
 <i>Sve što Tony i ja radimo je...
-- Ali cemu imati</i>
+- Ali èemu imati</i>
 
 434
 00:29:25,172 --> 00:29:28,008
 <i>...zdravo...
-- i posjedovati trkaci auto...</i>
+- i posjedovati trkaæi auto...</i>
 
 435
 00:29:28,133 --> 00:29:31,094
@@ -1931,7 +1931,7 @@ Da?
 
 439
 00:29:44,858 --> 00:29:47,027
-Prvi put cujem.
+Prvi put èujem.
 
 440
 00:29:47,736 --> 00:29:48,862
@@ -1939,7 +1939,7 @@ To se ne može dogoditi.
 
 441
 00:29:48,987 --> 00:29:50,614
-Shvacam. Kako mogu pomoci?
+Shvaæam. Kako mogu pomoæi?
 
 442
 00:29:50,739 --> 00:29:51,948
@@ -1957,7 +1957,7 @@ Tony je samo...
 445
 00:29:56,912 --> 00:29:58,747
 nismo konkurenti.
-Shvacaš što želim reci?
+Shvaæaš što želim reæi?
 
 446
 00:29:58,872 --> 00:29:59,915
@@ -1965,8 +1965,8 @@ Znaš što?
 
 447
 00:30:00,040 --> 00:30:02,959
-Ispricaš me na sekundicu?
-- Možeš mi procitati što si napisala?
+Isprièaš me na sekundicu?
+- Možeš mi proèitati što si napisala?
 
 448
 00:30:04,377 --> 00:30:05,587
@@ -1974,7 +1974,7 @@ Moram obaviti kratak poziv.
 
 449
 00:30:05,712 --> 00:30:06,755
-Kamo ceš?
+Kamo æeš?
 
 450
 00:30:06,880 --> 00:30:08,215
@@ -1983,7 +1983,7 @@ Stiže kavijar.
 
 451
 00:30:08,340 --> 00:30:09,800
-Odmah se vracam!
+Odmah se vraæam!
 
 452
 00:32:09,460 --> 00:32:10,628
@@ -1995,12 +1995,12 @@ Drži se.
 
 454
 00:33:24,535 --> 00:33:26,287
-Daj mi kovceg.
+Daj mi kovèeg.
 - Evo.
 
 455
 00:33:26,412 --> 00:33:27,955
-Kljuc!
+Kljuè!
 - U džepu mi je.
 
 456
@@ -2064,8 +2064,8 @@ Jesam ga!
 
 469
 00:35:15,646 --> 00:35:17,272
-Uzmi kovceg!
-- Daj mu kovceg!
+Uzmi kovèeg!
+- Daj mu kovèeg!
 
 470
 00:35:17,398 --> 00:35:19,191
@@ -2077,7 +2077,7 @@ O, Bože!
 
 472
 00:35:29,243 --> 00:35:31,954
-Daj mi kovceg!
+Daj mi kovèeg!
 Molim te! Hajde!
 
 473
@@ -2091,7 +2091,7 @@ Ti gubiš! Ti gubiš, Stark,
 475
 00:37:34,117 --> 00:37:37,746
 Provjerili smo mu otiske.
-Ništa nije izašlo, cak ni ime.
+Ništa nije izašlo, èak ni ime.
 
 476
 00:37:37,871 --> 00:37:39,372
@@ -2115,12 +2115,12 @@ Pet minuta.
 
 481
 00:38:08,568 --> 00:38:12,197
-Prilicno pristojna tehnologija.
+Prilièno pristojna tehnologija.
 Nedovoljno ciklusa u sekundi.
 
 482
 00:38:17,994 --> 00:38:20,872
-Mogao si udvostruciti rotacije.
+Mogao si udvostruèiti rotacije.
 
 483
 00:38:23,625 --> 00:38:26,336
@@ -2129,7 +2129,7 @@ kroz kanale od ionizirane plazme.
 
 484
 00:38:26,461 --> 00:38:29,339
-To daje ucinak, makar nije ucinkovito.
+To daje uèinak, makar nije uèinkovito.
 
 485
 00:38:30,423 --> 00:38:32,717
@@ -2158,8 +2158,8 @@ na niskim položajima.
 
 491
 00:38:46,940 --> 00:38:52,445
-Potjeceš iz porodice
-kradljivaca i koljaca.
+Potjeèeš iz porodice
+kradljivaca i koljaèa.
 
 492
 00:38:53,863 --> 00:38:56,115
@@ -2167,7 +2167,7 @@ I sada, kao i svi koji znaju da su krivi,
 
 493
 00:38:57,075 --> 00:38:59,661
-nastojiš preinaciti vlastitu povijest.
+nastojiš preinaèiti vlastitu povijest.
 
 494
 00:39:00,370 --> 00:39:05,333
@@ -2185,7 +2185,7 @@ Od mog oca, Antona Vanka.
 
 497
 00:39:14,008 --> 00:39:16,135
-Nikad nisam cuo za njega.
+Nikad nisam èuo za njega.
 
 498
 00:39:17,261 --> 00:39:19,931
@@ -2210,12 +2210,12 @@ Ako uspiješ pustiti krv Bogu
 
 503
 00:39:31,150 --> 00:39:33,986
-ljudi ce prestati vjerovati u njega.
+ljudi æe prestati vjerovati u njega.
 
 504
 00:39:35,363 --> 00:39:39,659
-I bit ce krvi u vodi.
-I sjatit ce se morski psi.
+I bit æe krvi u vodi.
+I sjatit æe se morski psi.
 
 505
 00:39:41,702 --> 00:39:46,082
@@ -2228,13 +2228,13 @@ kako te svijet proždire.
 
 507
 00:39:48,793 --> 00:39:50,836
-Odakle ceš promatrati
+Odakle æeš promatrati
 kako me svijet proždire?
 
 508
 00:39:50,962 --> 00:39:54,840
-A, tocno. Iz zatvorske celije.
-Poslat cu ti sapun.
+A, toèno. Iz zatvorske æelije.
+Poslat æu ti sapun.
 
 509
 00:39:54,966 --> 00:39:57,218
@@ -2243,7 +2243,7 @@ Hej, Tony. Prije nego što odeš.
 510
 00:39:57,343 --> 00:40:00,680
 Paladij u prsima...
-Bolan nacin umiranja.
+Bolan naèin umiranja.
 
 511
 00:40:18,155 --> 00:40:21,575
@@ -2251,12 +2251,12 @@ Bolan nacin umiranja.
 
 512
 00:40:21,701 --> 00:40:24,120
-<i>i da ovaj covjek nema
+<i>i da ovaj èovjek nema
 blage veze što radi.</i>
 
 513
 00:40:24,245 --> 00:40:27,957
-<i>On oružje Iron Man smatra igrackom.</i>
+<i>On oružje Iron Man smatra igraèkom.</i>
 
 514
 00:40:28,082 --> 00:40:32,878
@@ -2270,7 +2270,7 @@ kada je gospodin Stark uporno tvrdio</i>
 516
 00:40:36,716 --> 00:40:39,218
 <i>ne postoje drugdje,
-nikad nece postojati drugdje,</i>
+nikad neæe postojati drugdje,</i>
 
 517
 00:40:39,343 --> 00:40:40,636
@@ -2310,15 +2310,15 @@ Tony?
 
 525
 00:41:12,585 --> 00:41:14,795
-Što mi to neceš reci?
+Što mi to neæeš reæi?
 
 526
 00:41:18,757 --> 00:41:21,719
-Ne želim kuci, uopce.
+Ne želim kuæi, uopæe.
 
 527
 00:41:24,013 --> 00:41:26,682
-Otkažimo moj rodjendan i...
+Otkažimo moj roðendan i...
 
 528
 00:41:26,807 --> 00:41:29,351
@@ -2327,7 +2327,7 @@ Daj da odemo u Veneciju. Cipriani.
 
 529
 00:41:29,476 --> 00:41:30,644
-Sjecaš se?
+Sjeæaš se?
 - O, da.
 
 530
@@ -2405,7 +2405,7 @@ lisice s mog prijatelja?
 
 547
 00:44:27,779 --> 00:44:31,241
-Oprostite mi, ispricavam se.
+Oprostite mi, isprièavam se.
 Vaš sam veliki obožavatelj.
 
 548
@@ -2418,7 +2418,7 @@ On nije životinja.
 
 550
 00:44:38,415 --> 00:44:41,084
-On je ljudsko bice. Hvala.
+On je ljudsko biæe. Hvala.
 
 551
 00:44:46,131 --> 00:44:47,507
@@ -2430,7 +2430,7 @@ Ja sam Justin Hammer.
 
 553
 00:44:50,969 --> 00:44:54,264
-Volio bih suradjivati s vama.
+Volio bih suraðivati s vama.
 Sjednite, molim vas.
 
 554
@@ -2462,17 +2462,17 @@ Organski sladoled.
 560
 00:45:15,326 --> 00:45:19,205
 Volim staviti nešto slatko pod zub.
-Vi takodjer, cini se. Tonyja Starka.
+Vi takoðer, èini se. Tonyja Starka.
 
 561
 00:45:21,165 --> 00:45:23,918
-To što sam vidio da ste ucinili
+To što sam vidio da ste uèinili
 Tonyju Starku na onom trkalištu,
 
 562
 00:45:24,043 --> 00:45:27,672
 kako ste stali pred njega
-naocigled Boga i svih,
+naoèigled Boga i svih,
 
 563
 00:45:27,797 --> 00:45:29,882
@@ -2484,7 +2484,7 @@ Obratili ste mi se time.
 
 565
 00:45:31,634 --> 00:45:34,220
-Znali ste da cu vas cuti.
+Znali ste da æu vas èuti.
 
 566
 00:45:34,345 --> 00:45:35,847
@@ -2500,7 +2500,7 @@ Ali ako mogu dati prijedlog:
 
 569
 00:45:40,268 --> 00:45:42,937
-Ne trudite se samo ubiti covjeka.
+Ne trudite se samo ubiti èovjeka.
 
 570
 00:45:43,062 --> 00:45:47,275
@@ -2513,11 +2513,11 @@ To treba ubiti.
 
 572
 00:45:49,569 --> 00:45:52,530
-Nas dvojica smo jako slicni.
+Nas dvojica smo jako slièni.
 
 573
 00:45:52,655 --> 00:45:57,243
-Jedina je razlika izmedju nas
+Jedina je razlika izmeðu nas
 u tome što ja imam resurse.
 
 574
@@ -2530,7 +2530,7 @@ vama trebaju moji resursi.
 
 576
 00:46:03,040 --> 00:46:05,585
-Da netko stane iza vas. Dobrocinitelj.
+Da netko stane iza vas. Dobroèinitelj.
 
 577
 00:46:05,710 --> 00:46:07,712
@@ -2539,7 +2539,7 @@ Volio bih to biti.
 578
 00:46:19,682 --> 00:46:23,936
 U redu. Znate li engleski?
-Jer mogu vam naci prevoditelja.
+Jer mogu vam naæi prevoditelja.
 
 579
 00:46:24,061 --> 00:46:26,856
@@ -2548,21 +2548,21 @@ išta od ovoga što sam rekao?
 
 580
 00:46:26,981 --> 00:46:28,357
-Vrlo dobro covjek.
+Vrlo dobro èovjek.
 
 581
 00:46:28,482 --> 00:46:31,611
-Vrlo dobro, covjece.
-- Vrlo dobro, covjece.
+Vrlo dobro, èovjeèe.
+- Vrlo dobro, èovjeèe.
 
 582
 00:46:36,657 --> 00:46:38,200
-Hocu svoju ptucu,
+Hoæu svoju ptucu,
 
 583
 00:46:40,244 --> 00:46:43,873
-Hocete pticu?
-- Hocu svoju ptucu,
+Hoæete pticu?
+- Hoæu svoju ptucu,
 
 584
 00:46:43,998 --> 00:46:45,625
@@ -2570,11 +2570,11 @@ Mogu vam nabaviti deset ptica.
 
 585
 00:46:45,750 --> 00:46:47,251
-Hocu svoju ptucu.
+Hoæu svoju ptucu.
 
 586
 00:46:47,376 --> 00:46:49,879
-U redu, ništa nije nemoguce.
+U redu, ništa nije nemoguæe.
 
 587
 00:46:50,004 --> 00:46:53,633
@@ -2593,7 +2593,7 @@ usprkos onome u Monaku.
 590
 00:46:58,888 --> 00:47:02,308
 Associated Press želi citat.
-- Faksiraj im ovo priopcenje.
+- Faksiraj im ovo priopæenje.
 
 591
 00:47:02,433 --> 00:47:03,893
@@ -2615,7 +2615,7 @@ nepredvidivog ponašanja</i>
 
 595
 00:47:12,234 --> 00:47:14,028
-<i>može li nas taj covjek dalje štititi.</i>
+<i>može li nas taj èovjek dalje štititi.</i>
 
 596
 00:47:14,153 --> 00:47:17,406
@@ -2625,7 +2625,7 @@ Zbivanja u Monaku to su potvrdila.</i>
 597
 00:47:18,741 --> 00:47:23,078
 <i>Upit riješen, gospodine.
-Anton Vanko bio je sovjetski fizicar</i>
+Anton Vanko bio je sovjetski fizièar</i>
 
 598
 00:47:23,204 --> 00:47:26,165
@@ -2634,16 +2634,16 @@ u Sjedinjene Države.</i>
 
 599
 00:47:26,290 --> 00:47:30,419
-<i>Medjutim, 1967. je optužen
+<i>Meðutim, 1967. je optužen
 za špijunažu i deportiran.</i>
 
 600
 00:47:30,544 --> 00:47:32,880
-<i>Njegov sin ivan, takodjer fizicar,</i>
+<i>Njegov sin ivan, takoðer fizièar,</i>
 
 601
 00:47:33,005 --> 00:47:37,718
-<i>osudjen je zbog prodaje
+<i>osuðen je zbog prodaje
 oružanog plutonija Pakistanu,</i>
 
 602
@@ -2657,7 +2657,7 @@ u zatvoru Kopejsk.</i>
 
 604
 00:47:47,102 --> 00:47:48,687
-Tony, moraš otici gore
+Tony, moraš otiæi gore
 
 605
 00:47:48,812 --> 00:47:51,023
@@ -2671,7 +2671,7 @@ s Nacionalnom gardom,
 607
 00:47:55,486 --> 00:47:58,280
 nagovaram ih da ne izvedu
-tenkove na Pacificku autocestu,
+tenkove na Pacifièku autocestu,
 
 608
 00:47:58,405 --> 00:48:01,241
@@ -2680,7 +2680,7 @@ i ne oduzmu sve ovo.
 
 609
 00:48:01,367 --> 00:48:03,369
-Oduzet ce ti odijela,
+Oduzet æe ti odijela,
 
 610
 00:48:03,494 --> 00:48:05,371
@@ -2688,13 +2688,13 @@ Dojadile su im igrice.
 
 611
 00:48:05,496 --> 00:48:08,666
-Rekao si da iducih 20 godina
-nitko nece imati ovu tehnologiju.
+Rekao si da iduæih 20 godina
+nitko neæe imati ovu tehnologiju.
 
 612
 00:48:08,791 --> 00:48:11,961
 A znaš što?
-Jucer ju je imao netko drugi.
+Juèer ju je imao netko drugi.
 
 613
 00:48:12,086 --> 00:48:14,380
@@ -2728,7 +2728,7 @@ To bi se trebalo dimiti?
 
 620
 00:48:46,829 --> 00:48:51,041
-Neutronsko oštecenje.
+Neutronsko ošteæenje.
 Iz stjenke reaktora.
 
 621
@@ -2755,11 +2755,11 @@ Hvala.
 
 626
 00:49:26,910 --> 00:49:29,913
-Hoceš biti usamljeni revolveraš,
+Hoæeš biti usamljeni revolveraš,
 
 627
 00:49:30,038 --> 00:49:32,040
-a to nije nužno, ne moraš ici sâm.
+a to nije nužno, ne moraš iæi sâm.
 
 628
 00:49:32,165 --> 00:49:34,334
@@ -2771,12 +2771,12 @@ Ali moraš imati povjerenja u mene.
 
 630
 00:49:36,795 --> 00:49:40,549
-Za razliku od mišljenja vecine,
-znam tocno što radim.
+Za razliku od mišljenja veæine,
+znam toèno što radim.
 
 631
 00:49:49,349 --> 00:49:51,601
-Tu cemo to raditi.
+Tu æemo to raditi.
 U mom skromnom domu.
 
 632
@@ -2794,7 +2794,7 @@ Evo ih! Spremni za borbu.
 
 635
 00:49:59,860 --> 00:50:01,278
-Možda sam štogod i pogrešno izracunao
+Možda sam štogod i pogrešno izraèunao
 
 636
 00:50:01,403 --> 00:50:03,363
@@ -2802,7 +2802,7 @@ u žurbi da ih proizvedem.
 
 637
 00:50:03,488 --> 00:50:05,323
-Što cete, entuzijast sam.
+Što æete, entuzijast sam.
 
 638
 00:50:05,449 --> 00:50:07,701
@@ -2814,7 +2814,7 @@ Radije nemojte.
 
 640
 00:50:14,541 --> 00:50:16,126
-Dobit cete pristup
+Dobit æete pristup
 
 641
 00:50:16,251 --> 00:50:18,128
@@ -2830,7 +2830,7 @@ Nema veze.
 
 644
 00:50:27,637 --> 00:50:30,891
-U redu. Svaka cast.
+U redu. Svaka èast.
 
 645
 00:50:33,393 --> 00:50:35,687
@@ -2847,7 +2847,7 @@ Baš ste rasturili taj vatrozid.
 
 648
 00:50:46,823 --> 00:50:49,659
-Da vam pokažem gdje cete raditi.
+Da vam pokažem gdje æete raditi.
 
 649
 00:50:49,784 --> 00:50:51,661
@@ -2864,8 +2864,8 @@ Samo su za pokazivanje, je li.
 
 652
 00:50:57,417 --> 00:51:02,380
-Komad dodje 125,7 milijuna, pa...
-Cekajte! Jao meni.
+Komad doðe 125,7 milijuna, pa...
+Èekajte! Jao meni.
 
 653
 00:51:04,507 --> 00:51:07,343
@@ -2882,7 +2882,7 @@ Teško nalazim dobrovoljce.
 
 656
 00:51:15,060 --> 00:51:18,188
-Pobrinut cu se za to.
+Pobrinut æu se za to.
 
 657
 00:51:18,313 --> 00:51:19,773
@@ -2890,21 +2890,21 @@ Za što vam trebaju?
 
 658
 00:51:19,898 --> 00:51:25,069
-Dugorocno, hocu da me smjeste
-u Pentagon na iducih 25 godina.
+Dugoroèno, hoæu da me smjeste
+u Pentagon na iduæih 25 godina.
 
 659
 00:51:25,195 --> 00:51:27,197
-Hocu da naspram njih
+Hoæu da naspram njih
 Iron Man izgleda zastarjelo.
 
 660
 00:51:27,322 --> 00:51:28,406
-Hocu otici na Stark Expo
+Hoæu otiæi na Stark Expo
 
 661
 00:51:28,531 --> 00:51:30,408
-i posrati se Tonyju pred kucom.
+i posrati se Tonyju pred kuæom.
 
 662
 00:51:32,035 --> 00:51:34,162
@@ -2916,16 +2916,16 @@ Divota! Presretan sam.
 
 664
 00:51:36,539 --> 00:51:39,209
-Naš covjek.
-Jesam ti rekao? Osjecao sam.
+Naš èovjek.
+Jesam ti rekao? Osjeæao sam.
 
 665
 00:51:48,843 --> 00:51:51,262
-Koji biste sat veceras stavili?
+Koji biste sat veèeras stavili?
 
 666
 00:51:51,596 --> 00:51:53,556
-Pogledat cu ih.
+Pogledat æu ih.
 
 667
 00:51:56,517 --> 00:51:57,936
@@ -2954,7 +2954,7 @@ Je li vam dovoljno 'dirty'?
 
 673
 00:52:15,286 --> 00:52:19,040
-Zlatno lice, smedji remen: Jäger.
+Zlatno lice, smeði remen: Jäger.
 Da vidim kako mi stoji.
 
 674
@@ -2963,11 +2963,11 @@ Donesi ih ovamo.
 
 675
 00:52:24,295 --> 00:52:26,422
-Uzet cu toga. Daj ti...
+Uzet æu toga. Daj ti...
 
 676
 00:52:38,559 --> 00:52:40,853
-Teško te uspijevam procitati.
+Teško te uspijevam proèitati.
 
 677
 00:52:41,145 --> 00:52:43,314
@@ -2980,11 +2980,11 @@ Mogu li ti postaviti pitanje? Hipotetsko.
 
 679
 00:52:48,277 --> 00:52:49,529
-Pomalo cudno.
+Pomalo èudno.
 
 680
 00:52:49,862 --> 00:52:53,199
-Da ti je ovo zadnji rodjendan,
+Da ti je ovo zadnji roðendan,
 
 681
 00:52:53,324 --> 00:52:54,867
@@ -3001,11 +3001,11 @@ Da, gospodine, jasno mi je.
 
 684
 00:53:38,035 --> 00:53:41,747
-Ne, nece biti potrebe, samostalno cu.
+Ne, neæe biti potrebe, samostalno æu.
 
 685
 00:53:41,872 --> 00:53:44,166
-Osobno vam jamcim da ce se Iron Man
+Osobno vam jamèim da æe se Iron Man
 
 686
 00:53:44,291 --> 00:53:46,085
@@ -3048,11 +3048,11 @@ Daj da ja to sredim.
 
 695
 00:54:15,489 --> 00:54:18,367
-Sredi. Ili cu ja morati.
+Sredi. Ili æu ja morati.
 
 696
 00:54:19,618 --> 00:54:21,245
-Najcešce me pitaju:
+Najèešæe me pitaju:
 
 697
 00:54:21,370 --> 00:54:23,831
@@ -3064,7 +3064,7 @@ Evo, ovako.
 
 699
 00:54:32,339 --> 00:54:35,217
-Covjek stvarno zna
+Èovjek stvarno zna
 prirediti zabavu, zar ne?
 
 700
@@ -3077,20 +3077,20 @@ Nevjerojatno. Hvala ti najljepša, Tony,
 
 702
 00:54:42,850 --> 00:54:46,770
-na tako prekrasnoj veceri.
+na tako prekrasnoj veèeri.
 
 703
 00:54:46,895 --> 00:54:50,858
-Sada cemo reci laku noc...
+Sada æemo reæi laku noæ...
 
 704
 00:54:50,983 --> 00:54:52,151
-Ne, cekaj.
+Ne, èekaj.
 
 705
 00:54:52,276 --> 00:54:54,028
 Nismo donijeli tortu
-da puhnem u svjecice.
+da puhnem u svjeæice.
 
 706
 00:54:54,153 --> 00:54:56,905
@@ -3133,7 +3133,7 @@ Ako ti tako kažeš.
 
 715
 00:55:11,962 --> 00:55:14,089
-Uzet cu ovo. Ti uzmi ovo.
+Uzet æu ovo. Ti uzmi ovo.
 
 716
 00:55:15,549 --> 00:55:17,134
@@ -3149,12 +3149,12 @@ Ali za mene je završilo prije sat i pol.
 
 719
 00:55:23,140 --> 00:55:26,602
-After-party pocinje za 15 minuta!
+After-party poèinje za 15 minuta!
 
 720
 00:55:30,230 --> 00:55:34,359
 A ako se nekome (Pepper)
-to ne svidja... vrata su tamo.
+to ne sviða... vrata su tamo.
 
 721
 00:55:46,622 --> 00:55:47,831
@@ -3170,7 +3170,7 @@ Ispali!
 
 724
 00:56:27,245 --> 00:56:29,122
-Reci cu ovo samo jedanput.
+Reæi æu ovo samo jedanput.
 
 725
 00:56:32,667 --> 00:56:33,960
@@ -3205,8 +3205,8 @@ dok netko nije stradao.
 
 732
 00:57:27,847 --> 00:57:31,393
-Stvarno? Žalim slucaj, kompa,
-ali Iron Man nema pomagaca.
+Stvarno? Žalim sluèaj, kompa,
+ali Iron Man nema pomagaèa.
 
 733
 00:57:32,018 --> 00:57:34,229
@@ -3219,11 +3219,11 @@ Je li bilo dosta?
 735
 00:57:45,198 --> 00:57:46,616
 Natalie!
-- Gdjice Potts.
+- Gðice Potts.
 
 736
 00:57:46,741 --> 00:57:48,827
-Nemoj ti meni "gdjice Potts".
+Nemoj ti meni "gðice Potts".
 Kužim ja tebe.
 
 737
@@ -3240,7 +3240,7 @@ Bježi odavde!
 
 740
 00:58:04,884 --> 00:58:07,595
-Hoceš ga? Uzmi ga!
+Hoæeš ga? Uzmi ga!
 
 741
 00:58:48,886 --> 00:58:50,054
@@ -3257,7 +3257,7 @@ Ne moramo ovo raditi.
 
 744
 00:58:54,017 --> 00:58:55,643
-Kad vec hoceš biti
+Kad veæ hoæeš biti
 War Machine, samo pucaj.
 
 745
@@ -3268,7 +3268,7 @@ Spusti je!
 746
 00:58:57,687 --> 00:58:58,896
 Spusti je!
-- Necu!
+- Neæu!
 
 747
 00:58:59,022 --> 00:59:00,440
@@ -3286,15 +3286,15 @@ MOJAVE, KALIFORNIJA
 
 750
 01:00:14,013 --> 01:00:17,183
-<i>stižem 5 km istocno na 1.500 metara.</i>
+<i>stižem 5 km istoèno na 1.500 metara.</i>
 
 751
 01:01:01,644 --> 01:01:02,937
-Pukovnice.
+Pukovnièe.
 
 752
 01:01:03,938 --> 01:01:05,147
-Bojnice.
+Bojnièe.
 
 753
 01:01:08,275 --> 01:01:09,526
@@ -3306,7 +3306,7 @@ Odnesimo ga unutra.
 
 755
 01:01:13,405 --> 01:01:14,865
-Rašcisti podrucje!
+Rašèisti podruèje!
 
 756
 01:01:37,680 --> 01:01:38,847
@@ -3314,17 +3314,17 @@ Gospodine!
 
 757
 01:01:38,972 --> 01:01:41,392
-Morat cu vas zamoliti
-da izadjete iz uštipka!
+Morat æu vas zamoliti
+da izaðete iz uštipka!
 
 758
 01:01:45,479 --> 01:01:47,606
-Ne želim se prikljuciti tvom
+Ne želim se prikljuèiti tvom
 supertajnom boy bandu.
 
 759
 01:01:48,524 --> 01:01:52,152
-Ne, ne. Sjecam se, ti sve radiš sâm.
+Ne, ne. Sjeæam se, ti sve radiš sâm.
 
 760
 01:01:52,277 --> 01:01:55,447
@@ -3333,7 +3333,7 @@ I kako ti to uspijeva?
 
 761
 01:01:56,990 --> 01:01:58,283
-Da ne zabrljam u pocetku:
+Da ne zabrljam u poèetku:
 
 762
 01:01:58,408 --> 01:02:00,160
@@ -3354,11 +3354,11 @@ Jako sam stvaran.
 766
 01:02:07,084 --> 01:02:09,044
 Najstvarnija sam osoba
-koju ceš ikad upoznati.
+koju æeš ikad upoznati.
 
 767
 01:02:09,586 --> 01:02:12,798
-Takve sam srece. Gdje je konobar...
+Takve sam sreæe. Gdje je konobar...
 - To ne izgleda baš dobro.
 
 768
@@ -3371,7 +3371,7 @@ Osigurali smo okolinu,
 
 770
 01:02:18,387 --> 01:02:21,223
-ali ne bi trebalo odugovlaciti.
+ali ne bi trebalo odugovlaèiti.
 
 771
 01:02:24,851 --> 01:02:27,646
@@ -3393,7 +3393,7 @@ dodijelio mi te je direktor Fury.
 
 775
 01:02:35,612 --> 01:02:37,406
-Radije se ispricaj.
+Radije se isprièaj.
 
 776
 01:02:37,531 --> 01:02:39,032
@@ -3410,7 +3410,7 @@ Dao prijatelju da odleti s odijelom!
 
 779
 01:02:45,580 --> 01:02:46,915
-Da nisam bolje upucen...
+Da nisam bolje upuæen...
 
 780
 01:02:47,040 --> 01:02:49,001
@@ -3431,7 +3431,7 @@ Mali buraz te razguzio i uzeo ti odijelo.
 
 784
 01:02:58,051 --> 01:02:59,219
-Je li to moguce?
+Je li to moguæe?
 
 785
 01:02:59,344 --> 01:03:01,930
@@ -3440,16 +3440,16 @@ g. Starka,
 
 786
 01:03:02,055 --> 01:03:05,016
-redundancije onemogucavaju
+redundancije onemoguæavaju
 neovlaštenu uporabu odijela.
 
 787
 01:03:07,853 --> 01:03:10,439
-Što hocete od mene?
+Što hoæete od mene?
 
 788
 01:03:10,564 --> 01:03:12,399
-A, ne, ne. Što ti hoceš od mene?
+A, ne, ne. Što ti hoæeš od mene?
 
 789
 01:03:12,524 --> 01:03:16,153
@@ -3463,7 +3463,7 @@ ti nisi središte mog svemira.
 
 791
 01:03:19,614 --> 01:03:22,617
-Imam vecih problema
+Imam veæih problema
 na jugozapadu od tebe!
 
 792
@@ -3472,7 +3472,7 @@ Drmni ga.
 
 793
 01:03:24,995 --> 01:03:28,290
-Ukrast cete mi bubreg i prodati ga?
+Ukrast æete mi bubreg i prodati ga?
 
 794
 01:03:28,790 --> 01:03:31,668
@@ -3496,7 +3496,7 @@ Ublažava ti stanje.
 798
 01:03:40,468 --> 01:03:42,512
 Daj mi par šteka toga
-i bit cu zdrav ko dren.
+i bit æu zdrav ko dren.
 
 799
 01:03:42,637 --> 01:03:44,514
@@ -3504,7 +3504,7 @@ Nije lijek. Samo smiruje simptome,
 
 800
 01:03:44,639 --> 01:03:47,100
-nece to biti lako srediti.
+neæe to biti lako srediti.
 
 801
 01:03:47,225 --> 01:03:49,394
@@ -3522,7 +3522,7 @@ svih poznatih elemenata.
 
 804
 01:03:56,484 --> 01:03:59,529
-Pa, došao sam ti reci ovo:
+Pa, došao sam ti reæi ovo:
 Nisi ih iskušao baš sve.
 
 805
@@ -3564,7 +3564,7 @@ Krasna je.
 
 814
 01:04:29,142 --> 01:04:31,561
-Hej, covjece... to nije moja ptuca,
+Hej, èovjeèe... to nije moja ptuca,
 
 815
 01:04:33,938 --> 01:04:37,817
@@ -3572,11 +3572,11 @@ Pa što ako nije, ovo ti je prekrasna ptica,
 
 816
 01:04:37,942 --> 01:04:40,695
-Hocu reci, ne vezuj se toliko uz stvari.
+Hoæu reæi, ne vezuj se toliko uz stvari.
 
 817
 01:04:40,820 --> 01:04:42,489
-Nauci se odvajati.
+Nauèi se odvajati.
 
 818
 01:04:45,283 --> 01:04:47,744
@@ -3614,11 +3614,11 @@ Vidiš, Ivane, ne stane mu glava,
 826
 01:05:17,231 --> 01:05:21,569
 To nije kaciga, to je glava.
-Treba mi u to stati covjek.
+Treba mi u to stati èovjek.
 
 827
 01:05:21,694 --> 01:05:25,031
-Cijela osoba u odijelu. Shvacaš?
+Cijela osoba u odijelu. Shvaæaš?
 
 828
 01:05:25,406 --> 01:05:27,492
@@ -3657,15 +3657,15 @@ Država traži odijela.
 
 836
 01:05:47,345 --> 01:05:49,305
-Poput Iron Mana! Shvacaš?
+Poput Iron Mana! Shvaæaš?
 
 837
 01:05:49,430 --> 01:05:52,517
-To narod traži! To ce ga usreciti.
+To narod traži! To æe ga usreæiti.
 
 838
 01:05:53,392 --> 01:05:54,685
-Hej, covjece...
+Hej, èovjeèe...
 
 839
 01:05:56,270 --> 01:05:58,815
@@ -3673,16 +3673,16 @@ Ne vezuj se toliko uz stvari.
 
 840
 01:05:59,565 --> 01:06:01,234
-Nauci se odvajati.
+Nauèi se odvajati.
 
 841
 01:06:04,362 --> 01:06:07,323
-Nadaj se da ce ti bespilotni
+Nadaj se da æe ti bespilotni
 postati glavni hit, Ivane.
 
 842
 01:06:07,990 --> 01:06:11,369
-Shvacaš? Bolje bi im bilo
+Shvaæaš? Bolje bi im bilo
 da me obore s nogu, Ivane!
 
 843
@@ -3721,12 +3721,12 @@ Gospodine, Expo nije...
 
 851
 01:06:41,232 --> 01:06:43,943
-Pukovnice, svijet mora što prije
+Pukovnièe, svijet mora što prije
 ovo vidjeti.
 
 852
 01:06:44,110 --> 01:06:47,113
-To cemo i ostvariti.
+To æemo i ostvariti.
 - Da, generale, ali...,
 
 853
@@ -3739,7 +3739,7 @@ Na zapovijed.
 
 855
 01:06:51,325 --> 01:06:54,704
-Svaka cast, pukovnice.
+Svaka èast, pukovnièe.
 Domovina se ponosi vama.
 
 856
@@ -3757,16 +3757,16 @@ Ne, bila je dovršena.
 
 859
 01:07:07,591 --> 01:07:11,637
-Nikad baš i ucinkovita, sve dok je
+Nikad baš i uèinkovita, sve dok je
 nisam minijaturizirao i stavio u...
 
 860
 01:07:11,804 --> 01:07:13,889
-Ne, Howard je rekao da je lucni reaktor
+Ne, Howard je rekao da je luèni reaktor
 
 861
 01:07:14,014 --> 01:07:15,724
-korak prema necemu vecem.
+korak prema neèemu veæem.
 
 862
 01:07:15,850 --> 01:07:20,312
@@ -3775,7 +3775,7 @@ koja bi zasjenila utrku u naoružanju.
 
 863
 01:07:20,855 --> 01:07:21,897
-Radio je na necem krupnom.
+Radio je na neèem krupnom.
 
 864
 01:07:22,022 --> 01:07:25,484
@@ -3797,7 +3797,7 @@ Anton Vanko je druga strana te medalje.
 
 868
 01:07:33,450 --> 01:07:35,411
-Anton je u tome vidio nacin
+Anton je u tome vidio naèin
 da se obogati.
 
 869
@@ -3816,7 +3816,7 @@ poslali su ga u Sibir
 
 872
 01:07:41,667 --> 01:07:44,336
-i proveo je iducih 20 godina
+i proveo je iduæih 20 godina
 u bijesu potpirenom votkom.
 
 873
@@ -3843,7 +3843,7 @@ imaš sredstva i znanje
 
 878
 01:07:59,727 --> 01:08:01,687
-da dovršiš ono što je on zapoceo.
+da dovršiš ono što je on zapoèeo.
 
 879
 01:08:01,812 --> 01:08:03,272
@@ -3868,16 +3868,16 @@ ali stari me nije baš obožavao.
 
 884
 01:08:19,663 --> 01:08:20,956
-Cega se sjecaš o njemu?
+Èega se sjeæaš o njemu?
 
 885
 01:08:21,081 --> 01:08:22,791
-Bio je hladan, proracunat.
+Bio je hladan, proraèunat.
 
 886
 01:08:22,916 --> 01:08:25,627
 Nikad mi nije rekao da me voli,
-cak niti da sam mu drag.
+èak niti da sam mu drag.
 
 887
 01:08:25,753 --> 01:08:27,296
@@ -3885,7 +3885,7 @@ Zato mi je malo teško svariti
 
 888
 01:08:27,421 --> 01:08:29,798
-da je rekao da buducnost ovisi o meni
+da je rekao da buduænost ovisi o meni
 
 889
 01:08:29,923 --> 01:08:32,885
@@ -3912,7 +3912,7 @@ mog starog nego ja.
 894
 01:08:40,184 --> 01:08:43,812
 Zapravo, jesam. Bio je jedan
-od suosnivaca S.H.I.E.L.D. -a.
+od suosnivaèa S.H.I.E.L.D. -a.
 
 895
 01:08:43,937 --> 01:08:45,063
@@ -3921,7 +3921,7 @@ od suosnivaca S.H.I.E.L.D. -a.
 896
 01:08:45,606 --> 01:08:47,649
 Imam sastanak u dva.
-- Cekaj.
+- Èekaj.
 
 897
 01:08:47,774 --> 01:08:49,318
@@ -3939,12 +3939,12 @@ Ne, nemam.
 
 900
 01:08:53,238 --> 01:08:56,408
-Nataša ce ostati pripojena Stark
+Nataša æe ostati pripojena Stark
 Industriesu s netaknutim paravanom.
 
 901
 01:08:56,575 --> 01:08:59,411
-A agenta Coulsona se sjecaš, jel' tako?
+A agenta Coulsona se sjeæaš, jel' tako?
 
 902
 01:08:59,912 --> 01:09:01,371
@@ -3969,7 +3969,7 @@ Molim te. Najprije se moram oporaviti.
 
 907
 01:09:22,309 --> 01:09:25,520
-Malo cu poraditi u labosu.
+Malo æu poraditi u labosu.
 
 908
 01:09:25,646 --> 01:09:27,773
@@ -3994,21 +3994,21 @@ kako god bude potrebno.
 
 913
 01:09:35,822 --> 01:09:38,492
-Pokušate li otici,
+Pokušate li otiæi,
 ili izvoditi ikakve smicalice,
 
 914
 01:09:38,575 --> 01:09:41,703
-ošamutit cu vas strujom i gledati
+ošamutit æu vas strujom i gledati
 Superdadilju dok slinite po podu.
 
 915
 01:09:41,828 --> 01:09:44,039
-Mislim da shvacam, da.
+Mislim da shvaæam, da.
 
 916
 01:09:44,164 --> 01:09:46,041
-Uživajte u vecerašnjoj zabavi.
+Uživajte u veèerašnjoj zabavi.
 
 917
 01:10:12,442 --> 01:10:13,985
@@ -4016,7 +4016,7 @@ Je li im ovo izvor energije?
 
 918
 01:10:14,152 --> 01:10:18,907
-Bojnice, ovo nije znanstvena vježba.
+Bojnièe, ovo nije znanstvena vježba.
 Posvetimo se naoružavanju odijela.
 
 919
@@ -4033,11 +4033,11 @@ O, da, da, da!
 
 922
 01:10:25,538 --> 01:10:27,249
-Je li to meni rodjendan?
+Je li to meni roðendan?
 
 923
 01:10:27,540 --> 01:10:30,961
-Što ste ucinili?
+Što ste uèinili?
 
 924
 01:10:34,130 --> 01:10:36,925
@@ -4046,16 +4046,16 @@ Je li to ono što mislim da je?
 
 925
 01:10:37,050 --> 01:10:40,095
-Zanima me što cete uciniti za nas.
+Zanima me što æete uèiniti za nas.
 
 926
 01:10:40,303 --> 01:10:41,763
-Što cu uciniti za vas?
+Što æu uèiniti za vas?
 
 927
 01:10:41,888 --> 01:10:44,599
 Pa, prije svega,
-unaprijedit cu vam softver.
+unaprijedit æu vam softver.
 
 928
 01:10:45,016 --> 01:10:47,936
@@ -4064,7 +4064,7 @@ Zatim...
 
 929
 01:10:48,061 --> 01:10:50,355
-Govorim o paljbenoj moci,
+Govorim o paljbenoj moæi,
 
 930
 01:10:51,898 --> 01:10:53,983
@@ -4081,7 +4081,7 @@ Previše geto? Slažem se,
 
 933
 01:11:02,742 --> 01:11:04,994
-Pumperica M-24, sa sacmom.
+Pumperica M-24, sa saèmom.
 
 934
 01:11:05,662 --> 01:11:06,871
@@ -4093,7 +4093,7 @@ Ali vi niste lovac.
 
 936
 01:11:08,415 --> 01:11:10,458
-Riješit cu se toga.
+Riješit æu se toga.
 
 937
 01:11:10,583 --> 01:11:13,044
@@ -4123,7 +4123,7 @@ Zahtjevni ste vi.
 
 943
 01:11:27,725 --> 01:11:30,144
-Znate što: Velicina je važna,
+Znate što: Velièina je važna,
 
 944
 01:11:30,270 --> 01:11:31,729
@@ -4140,11 +4140,11 @@ Trga tijela, u prah praši.
 
 947
 01:11:39,112 --> 01:11:41,239
-Decki u uniformi zovu ga Striko Sataraš
+Deèki u uniformi zovu ga Striko Sataraš
 
 948
 01:11:41,364 --> 01:11:43,700
-ili Carobni Zmaj Zujko.
+ili Èarobni Zmaj Zujko.
 
 949
 01:11:49,747 --> 01:11:53,501
@@ -4154,7 +4154,7 @@ Cohibe, Montecristo.
 950
 01:11:55,211 --> 01:11:57,088
 Ovo je projektil Sidewinder
-za kineticko ubijanje,
+za kinetièko ubijanje,
 
 951
 01:11:57,213 --> 01:12:01,426
@@ -4173,11 +4173,11 @@ Da je mrvu pametniji, napisao bi knjigu.
 954
 01:12:07,932 --> 01:12:11,269
 Knjigu naspram koje bi se Uliks
-cinio kao da je napisan bojicama.
+èinio kao da je napisan bojicama.
 
 955
 01:12:11,936 --> 01:12:13,146
-I onda bi vam je procitao.
+I onda bi vam je proèitao.
 
 956
 01:12:13,813 --> 01:12:15,273
@@ -4185,18 +4185,18 @@ To je moj Eiffelov toranj,
 
 957
 01:12:15,440 --> 01:12:18,443
-moja Rahmanjinovljeva Treca.
+moja Rahmanjinovljeva Treæa.
 Moja Pieta.
 
 958
 01:12:18,609 --> 01:12:21,612
 Krajnje elegantan,
-zapanjujuce prekrasan,
+zapanjujuæe prekrasan,
 
 959
 01:12:21,779 --> 01:12:26,451
 a može svesti brojno stanje
-u svakoj stojecoj zgradi na nulu.
+u svakoj stojeæoj zgradi na nulu.
 
 960
 01:12:27,577 --> 01:12:29,454
@@ -4208,11 +4208,11 @@ Bolje nemam.
 
 962
 01:12:41,632 --> 01:12:43,217
-Hocemo, onda? Recite nešto.
+Hoæemo, onda? Recite nešto.
 
 963
 01:12:43,342 --> 01:12:47,305
-Kao sfinga ste. Necitljivi ste mi.
+Kao sfinga ste. Neèitljivi ste mi.
 - Uzimam.
 
 964
@@ -4226,7 +4226,7 @@ Sve.
 
 966
 01:13:30,723 --> 01:13:34,310
-<i>Sve se može postici tehnologijom.</i>
+<i>Sve se može postiæi tehnologijom.</i>
 
 967
 01:13:34,602 --> 01:13:36,937
@@ -4235,7 +4235,7 @@ Sve.
 968
 01:13:37,063 --> 01:13:42,860
 <i>i prvi put u ljudskoj povijesti...
-mogucnost mira u svijetu.</i>
+moguænost mira u svijetu.</i>
 
 969
 01:13:43,402 --> 01:13:44,612
@@ -4243,12 +4243,12 @@ mogucnost mira u svijetu.</i>
 
 970
 01:13:44,737 --> 01:13:48,699
-<i>Sve što vam treba za buducnost
-naci cete upravo ovdje.</i>
+<i>Sve što vam treba za buduænost
+naæi æete upravo ovdje.</i>
 
 971
 01:13:48,866 --> 01:13:51,827
-<i>Grad buducnosti? Grad sutrašnjice?</i>
+<i>Grad buduænosti? Grad sutrašnjice?</i>
 
 972
 01:13:57,708 --> 01:13:58,793
@@ -4256,8 +4256,8 @@ naci cete upravo ovdje.</i>
 
 973
 01:13:58,918 --> 01:14:02,796
-<i>Sve što vam treba za buducnost
-naci cete upravo ovdje.</i>
+<i>Sve što vam treba za buduænost
+naæi æete upravo ovdje.</i>
 
 974
 01:14:02,922 --> 01:14:05,716
@@ -4290,11 +4290,11 @@ Vrati odakle si to uzeo!</i>
 
 981
 01:14:24,276 --> 01:14:26,070
-<i>Ja udjem i...</i>
+<i>Ja uðem i...</i>
 
 982
 01:14:30,032 --> 01:14:31,909
-<i>Mene cekate?</i>
+<i>Mene èekate?</i>
 
 983
 01:14:33,744 --> 01:14:38,332
@@ -4315,7 +4315,7 @@ volio bih vam predstaviti...</i>
 
 987
 01:14:44,922 --> 01:14:47,841
-<i>Smiješnog li nacina zaradjivanja za život.</i>
+<i>Smiješnog li naèina zaraðivanja za život.</i>
 
 988
 01:14:48,300 --> 01:14:49,760
@@ -4323,7 +4323,7 @@ volio bih vam predstaviti...</i>
 
 989
 01:14:50,803 --> 01:14:52,262
-<i>može postici...</i>
+<i>može postiæi...</i>
 
 990
 01:14:53,097 --> 01:14:54,932
@@ -4339,7 +4339,7 @@ volio bih vam predstaviti...</i>
 
 993
 01:15:10,656 --> 01:15:13,617
-<i>pa cu ti to radije snimiti.</i>
+<i>pa æu ti to radije snimiti.</i>
 
 994
 01:15:15,494 --> 01:15:17,287
@@ -4347,26 +4347,26 @@ volio bih vam predstaviti...</i>
 
 995
 01:15:18,330 --> 01:15:20,874
-<i>i jednom ceš shvatiti
+<i>i jednom æeš shvatiti
 da predstavlja daleko više</i>
 
 996
 01:15:20,999 --> 01:15:24,962
-<i>od tudjih izuma.
+<i>od tuðih izuma.
 predstavlja moje životno djelo.</i>
 
 997
 01:15:26,171 --> 01:15:28,465
-<i>Ovo je kljuc buducnosti.</i>
+<i>Ovo je kljuè buduænosti.</i>
 
 998
 01:15:31,468 --> 01:15:34,388
-<i>Ogranicava me tehnologija
+<i>Ogranièava me tehnologija
 vremena u kojem živim.</i>
 
 999
 01:15:34,513 --> 01:15:36,223
-<i>Ali ti ceš to dokuciti jednog dana.</i>
+<i>Ali ti æeš to dokuèiti jednog dana.</i>
 
 1000
 01:15:37,140 --> 01:15:38,809
@@ -4374,12 +4374,12 @@ vremena u kojem živim.</i>
 
 1001
 01:15:39,768 --> 01:15:41,812
-<i>promijenit ceš svijet.</i>
+<i>promijenit æeš svijet.</i>
 
 1002
 01:15:43,313 --> 01:15:47,234
 <i>Sada i zasvagda,
-moje najvece ostvarenje</i>
+moje najveæe ostvarenje</i>
 
 1003
 01:15:49,653 --> 01:15:50,988
@@ -4405,7 +4405,7 @@ Ma... ne, senor.
 
 1008
 01:16:20,058 --> 01:16:23,019
-Uzmi. Ne volim kad mi se urucuje,
+Uzmi. Ne volim kad mi se uruèuje,
 
 1009
 01:16:23,145 --> 01:16:25,021
@@ -4427,7 +4427,7 @@ oduzimanje vlasništva.
 
 1013
 01:16:33,488 --> 01:16:34,531
-Gdjice Potts?
+Gðice Potts?
 
 1014
 01:16:34,698 --> 01:16:35,699
@@ -4440,7 +4440,7 @@ On odbija...
 
 1016
 01:16:37,742 --> 01:16:40,287
-Zacas sam gotov.
+Zaèas sam gotov.
 - Naš je stav
 
 1017
@@ -4450,7 +4450,7 @@ i nastavlja posjedovati
 
 1018
 01:16:42,747 --> 01:16:45,458
-sva vlasnicka prava
+sva vlasnièka prava
 nad platformom Mark II.
 
 1019
@@ -4460,15 +4460,15 @@ da je on doista Iron Man,</i>
 
 1020
 01:16:48,420 --> 01:16:50,547
-<i>dao je obecanje Americi</i>
+<i>dao je obeæanje Americi</i>
 
 1021
 01:16:50,714 --> 01:16:52,549
-<i>da ce nas cuvati.</i>
+<i>da æe nas èuvati.</i>
 
 1022
 01:16:52,716 --> 01:16:54,718
-<i>Ocito ga nije ispunio.</i>
+<i>Oèito ga nije ispunio.</i>
 
 1023
 01:16:54,885 --> 01:16:57,137
@@ -4488,7 +4488,7 @@ da je on doista Iron Man,</i>
 
 1027
 01:17:04,102 --> 01:17:05,145
-<i>Ona nicim</i>
+<i>Ona nièim</i>
 
 1028
 01:17:05,270 --> 01:17:06,396
@@ -4522,7 +4522,7 @@ da potpiše zapovijed.
 
 1035
 01:17:20,744 --> 01:17:22,162
-Na Expu cemo o tome,
+Na Expu æemo o tome,
 
 1036
 01:17:22,287 --> 01:17:25,248
@@ -4530,12 +4530,12 @@ Hammer sutra ima neku prezentaciju.
 
 1037
 01:17:25,373 --> 01:17:28,209
-hoce li doci Tony Stark?
-- Hocu li?
+hoæe li doæi Tony Stark?
+- Hoæu li?
 
 1038
 01:17:28,877 --> 01:17:31,087
-Ne, nece.
+Ne, neæe.
 - Volio bih.
 
 1039
@@ -4558,12 +4558,12 @@ Mislio sam da se vozim ovamo
 
 1043
 01:17:41,890 --> 01:17:44,350
-da bih se ispricao, ali nije tako.
+da bih se isprièao, ali nije tako.
 
 1044
 01:17:44,476 --> 01:17:47,187
-Nisi se došao ispricati?
-- To ne treba ni reci.
+Nisi se došao isprièati?
+- To ne treba ni reæi.
 
 1045
 01:17:47,312 --> 01:17:48,855
@@ -4576,7 +4576,7 @@ iskren prema tebi...
 
 1047
 01:17:53,067 --> 01:17:54,194
-i hocu ti se odužiti.
+i hoæu ti se odužiti.
 
 1048
 01:17:54,319 --> 01:17:56,613
@@ -4609,15 +4609,15 @@ Nije mi stalo... Mislim, stalo mi je.
 
 1055
 01:18:12,670 --> 01:18:14,297
-Ne ocekujem da ceš ti sada...
+Ne oèekujem da æeš ti sada...
 
 1056
 01:18:14,422 --> 01:18:15,548
-Evo što želim reci.
+Evo što želim reæi.
 
 1057
 01:18:15,673 --> 01:18:17,467
-Pa cu ti to samo reci.
+Pa æu ti to samo reæi.
 - Radije tu prekini.
 
 1058
@@ -4626,7 +4626,7 @@ Jer ako još jedanput kažeš "ja",
 
 1059
 01:18:20,178 --> 01:18:22,931
-bacit cu ti nešto u glavu.
+bacit æu ti nešto u glavu.
 
 1060
 01:18:23,514 --> 01:18:25,391
@@ -4634,7 +4634,7 @@ Nastojim voditi kompaniju.
 
 1061
 01:18:25,516 --> 01:18:28,061
-Znaš li ti što to sve ukljucuje?
+Znaš li ti što to sve ukljuèuje?
 - Da.
 
 1062
@@ -4659,7 +4659,7 @@ Jesi li mi ti to donio jagode?
 1066
 01:18:47,872 --> 01:18:51,250
 Znaš li koja je jedina stvar
-na koju sam alergicna?
+na koju sam alergièna?
 
 1067
 01:18:51,376 --> 01:18:53,628
@@ -4681,12 +4681,12 @@ Trebaš mi da...
 
 1071
 01:19:10,144 --> 01:19:11,521
-Gdjice Potts?
+Gðice Potts?
 
 1072
 01:19:12,188 --> 01:19:15,483
-Izvoli, udji.
-- Polijecete za 25 minuta.
+Izvoli, uði.
+- Polijeæete za 25 minuta.
 
 1073
 01:19:19,195 --> 01:19:20,613
@@ -4726,7 +4726,7 @@ Nije tako.
 1081
 01:19:49,100 --> 01:19:51,477
 Ne? Ništa.
-- Kad si vec tu,
+- Kad si veæ tu,
 
 1082
 01:19:51,602 --> 01:19:54,647
@@ -4742,11 +4742,11 @@ Možeš držati jezik za zubima?
 
 1085
 01:20:03,781 --> 01:20:04,824
-Covjece, kako si dobra.
+Èovjeèe, kako si dobra.
 
 1086
 01:20:04,949 --> 01:20:07,493
-Nepojmljivo si dvolicna.
+Nepojmljivo si dvolièna.
 
 1087
 01:20:07,618 --> 01:20:09,412
@@ -4754,20 +4754,20 @@ Trostruki si uljez.
 
 1088
 01:20:09,537 --> 01:20:11,747
-Ima li iceg stvarnog u tebi?
+Ima li ièeg stvarnog u tebi?
 
 1089
 01:20:11,914 --> 01:20:12,915
-Govoriš li uopce latinski?
+Govoriš li uopæe latinski?
 
 1090
 01:20:15,126 --> 01:20:17,795
-A to znaci? Što si sad rekla?
+A to znaèi? Što si sad rekla?
 
 1091
 01:20:17,878 --> 01:20:21,090
-Znaci da ceš se ili sâm odvesti doma,
-ili cu dati da te odvedu.
+Znaèi da æeš se ili sâm odvesti doma,
+ili æu dati da te odvedu.
 
 1092
 01:20:22,716 --> 01:20:24,093
@@ -4775,12 +4775,12 @@ Dobra si!
 
 1093
 01:20:55,332 --> 01:20:57,293
-KLJUC BUDUCNOSTI JE OVDJE
+KLJUÈ BUDUÆNOSTI JE OVDJE
 
 1094
 01:21:23,944 --> 01:21:26,613
 Jarvise, možeš mi vakuformirati
-digitalni žicani model ovoga?
+digitalni žièani model ovoga?
 
 1095
 01:21:26,697 --> 01:21:29,158
@@ -4798,12 +4798,12 @@ Koliko zgrada ima?
 
 1098
 01:21:44,214 --> 01:21:46,592
-<i>Ukljucujuci belgijske
+<i>Ukljuèujuæi belgijske
 štandove s vaflima?</i>
 
 1099
 01:21:46,717 --> 01:21:49,261
-Retoricko pitanje. Samo mi pokaži.
+Retorièko pitanje. Samo mi pokaži.
 
 1100
 01:22:02,065 --> 01:22:06,612
@@ -4811,7 +4811,7 @@ Kako to izgleda? Nije da nije kao atom.
 
 1101
 01:22:06,737 --> 01:22:10,199
-U tom slucaju, jezgra bi... bila ovdje.
+U tom sluèaju, jezgra bi... bila ovdje.
 
 1102
 01:22:11,325 --> 01:22:13,368
@@ -4820,7 +4820,7 @@ Istakni unisferu.
 1103
 01:22:22,210 --> 01:22:27,174
 <i>Ukloni staze. Makni ih.
-- Što pokušavate postici?</i>
+- Što pokušavate postiæi?</i>
 
 1104
 01:22:27,299 --> 01:22:29,092
@@ -4832,7 +4832,7 @@ Ponovno otkrivam... Novi element.
 
 1106
 01:22:33,972 --> 01:22:36,975
-Makni parkove, zelenilo, drvece,
+Makni parkove, zelenilo, drveæe,
 
 1107
 01:22:37,100 --> 01:22:39,394
@@ -4841,11 +4841,11 @@ parkirališta, izlaze, ulaze.
 1108
 01:22:44,232 --> 01:22:50,197
 Strukturiraj protone i neutrone
-služeci se paviljonima kao nacrtom.
+služeæi se paviljonima kao nacrtom.
 
 1109
 01:23:15,680 --> 01:23:20,435
-Mrtav si vec gotovo dvadeset godina,
+Mrtav si veæ gotovo dvadeset godina,
 a još me vodiš u školu.
 
 1110
@@ -4859,16 +4859,16 @@ Hvala, stari.
 
 1112
 01:23:32,530 --> 01:23:35,742
-<i>Nažalost, nemoguce ga je sintetizirati.</i>
+<i>Nažalost, nemoguæe ga je sintetizirati.</i>
 
 1113
 01:23:40,330 --> 01:23:43,833
-Pripremite krupno preuredjenje!
-Vracamo se izradi hardvera.
+Pripremite krupno preureðenje!
+Vraæamo se izradi hardvera.
 
 1114
 01:24:31,339 --> 01:24:33,591
-Cujem da ste pobjegli odavde.
+Èujem da ste pobjegli odavde.
 
 1115
 01:24:34,092 --> 01:24:35,969
@@ -4882,7 +4882,7 @@ Obavljao sam neke stvari.
 
 1117
 01:24:40,223 --> 01:24:42,141
-Igram za domace,
+Igram za domaæe,
 
 1118
 01:24:42,267 --> 01:24:44,310
@@ -4892,7 +4892,7 @@ Fabuloznu Frikovsku Bratiju.
 1119
 01:24:44,435 --> 01:24:46,187
 Onda, pustiš me da radim,
-ili ceš mi razvaliti jaja?
+ili æeš mi razvaliti jaja?
 
 1120
 01:24:48,565 --> 01:24:50,525
@@ -4930,7 +4930,7 @@ Spusti.
 1128
 01:25:12,005 --> 01:25:15,049
 Savršeno ravno.
-Zauzet sam. Što hoceš?
+Zauzet sam. Što hoæeš?
 
 1129
 01:25:15,216 --> 01:25:18,344
@@ -4943,7 +4943,7 @@ Idem u Novi Meksiko.
 
 1131
 01:25:20,596 --> 01:25:23,016
-U Zemlju carolija.
+U Zemlju èarolija.
 - Tako kažu.
 
 1132
@@ -4954,7 +4954,7 @@ Tajnim poslom.
 1133
 01:25:26,602 --> 01:25:27,603
 Sretno.
-- Dovidjenja.
+- Doviðenja.
 
 1134
 01:25:27,729 --> 01:25:29,772
@@ -4968,7 +4968,7 @@ Više nego što mislite.
 
 1136
 01:25:51,252 --> 01:25:53,838
-Ukljucujem prizmatski akcelerator.
+Ukljuèujem prizmatski akcelerator.
 
 1137
 01:25:59,927 --> 01:26:02,346
@@ -4980,7 +4980,7 @@ To je bilo lako.
 
 1139
 01:27:07,661 --> 01:27:09,580
-<i>Cestitam, gospodine.</i>
+<i>Èestitam, gospodine.</i>
 
 1140
 01:27:11,332 --> 01:27:13,792
@@ -4989,12 +4989,12 @@ To je bilo lako.
 1141
 01:27:21,800 --> 01:27:25,554
 <i>Gospodine, reaktor je prihvatio
-preinacenu jezgru.</i>
+preinaèenu jezgru.</i>
 
 1142
 01:27:25,679 --> 01:27:28,265
-<i>Pocet cu obavljati
-dijagnosticke pretrage.</i>
+<i>Poèet æu obavljati
+dijagnostièke pretrage.</i>
 
 1143
 01:27:34,188 --> 01:27:35,481
@@ -5010,11 +5010,11 @@ Hej, Ivane.
 
 1146
 01:27:39,985 --> 01:27:42,196
-Bespilotni nece biti spremni.
+Bespilotni neæe biti spremni.
 
 1147
 01:27:42,529 --> 01:27:43,697
-Nece... Kako to misliš?
+Neæe... Kako to misliš?
 
 1148
 01:27:43,864 --> 01:27:47,242
@@ -5023,7 +5023,7 @@ ne i demonstraciju.
 
 1149
 01:27:47,368 --> 01:27:49,328
-U cemu je razlika, kvragu?
+U èemu je razlika, kvragu?
 
 1150
 01:27:49,495 --> 01:27:52,206
@@ -5031,7 +5031,7 @@ Prezentacija. Bez letenja. Bez pucanja.
 
 1151
 01:27:52,539 --> 01:27:54,333
-Cekaj.
+Èekaj.
 
 1152
 01:27:54,500 --> 01:27:57,544
@@ -5049,26 +5049,26 @@ Kako to misliš?
 
 1155
 01:28:02,549 --> 01:28:06,595
-<i>Što to znaci, kvragu?
+<i>Što to znaèi, kvragu?
 Nismo se tako dogovorili.</i>
 
 1156
 01:28:06,720 --> 01:28:09,306
-<i>Obecao si mi odijela,
-zatim si obecao bespilotne...</i>
+<i>Obeæao si mi odijela,
+zatim si obeæao bespilotne...</i>
 
 1157
 01:28:09,431 --> 01:28:13,519
-<i>Hej, covjece... Sve ce biti u redu.
+<i>Hej, èovjeèe... Sve æe biti u redu.
 - Nisam to htio.</i>
 
 1158
 01:28:25,697 --> 01:28:28,242
-Hej, eto ga, Pticar!
+Hej, eto ga, Ptièar!
 
 1159
 01:28:29,868 --> 01:28:35,415
-Aha, sad ti se ptica svidja. Je li?
+Aha, sad ti se ptica sviða. Je li?
 Je li to tvoja ptica? Zbunjen sam.
 
 1160
@@ -5087,7 +5087,7 @@ Uzmite mu i jastuke. Oba.
 
 1163
 01:28:52,766 --> 01:28:54,685
-I obucu.
+I obuæu.
 
 1164
 01:28:58,772 --> 01:29:00,399
@@ -5133,7 +5133,7 @@ palo mi je u krilo.
 
 1174
 01:29:32,139 --> 01:29:35,308
-Da nije, veceras bih bio
+Da nije, veèeras bih bio
 prepušten tebi na milost.
 
 1175
@@ -5147,11 +5147,11 @@ Tvoje preskupe lutkice
 
 1177
 01:29:41,481 --> 01:29:44,067
-tvorit ce mi pozadinu demonstracije.
+tvorit æe mi pozadinu demonstracije.
 
 1178
 01:29:44,609 --> 01:29:46,778
-Kužiš što hocu reci?
+Kužiš što hoæu reæi?
 
 1179
 01:29:49,030 --> 01:29:53,285
@@ -5161,7 +5161,7 @@ ali ja ne govorim ruski!
 1180
 01:29:58,665 --> 01:30:01,751
 Idem sada na Expo.
-Možda cak nešto poševim.
+Možda èak nešto poševim.
 
 1181
 01:30:02,502 --> 01:30:04,296
@@ -5177,11 +5177,11 @@ Kad se vratim,
 
 1184
 01:30:09,342 --> 01:30:11,636
-preradit cemo uvjete ugovora.
+preradit æemo uvjete ugovora.
 
 1185
 01:30:12,304 --> 01:30:14,306
-Ispunit ceš dogovoreno.
+Ispunit æeš dogovoreno.
 
 1186
 01:30:14,848 --> 01:30:15,932
@@ -5189,7 +5189,7 @@ U suprotnom,
 
 1187
 01:30:16,057 --> 01:30:18,435
-bit ceš isto što si bio kad sam te našao:
+bit æeš isto što si bio kad sam te našao:
 
 1188
 01:30:18,560 --> 01:30:20,186
@@ -5206,7 +5206,7 @@ Možda me možeš gledati na televiziji.
 1191
 01:30:34,492 --> 01:30:36,786
 Dummy. Ti.
-Možemo pocistiti ovaj nered?
+Možemo poèistiti ovaj nered?
 
 1192
 01:30:36,911 --> 01:30:38,288
@@ -5223,7 +5223,7 @@ Prekrasno.
 
 1195
 01:30:43,543 --> 01:30:44,961
-Coulson, kako je u Zemlji carolija?
+Coulson, kako je u Zemlji èarolija?
 
 1196
 01:30:45,086 --> 01:30:47,797
@@ -5231,7 +5231,7 @@ Coulson, kako je u Zemlji carolija?
 
 1197
 01:30:49,382 --> 01:30:51,384
-<i>Udvostrucio cikluse.</i>
+<i>Udvostruèio cikluse.</i>
 
 1198
 01:30:52,427 --> 01:30:56,306
@@ -5240,7 +5240,7 @@ više snage. Dobar savjet.</i>
 
 1199
 01:30:56,681 --> 01:30:58,266
-Zvuciš dosta živahno
+Zvuèiš dosta živahno
 za jednog mrtvaca.
 
 1200
@@ -5249,11 +5249,11 @@ za jednog mrtvaca.
 
 1201
 01:31:02,520 --> 01:31:03,772
-Udji mu u trag.
+Uði mu u trag.
 
 1202
 01:31:03,897 --> 01:31:07,609
-Sad ce se napisati prava
+Sad æe se napisati prava
 povijest imena Stark.
 
 1203
@@ -5263,7 +5263,7 @@ Jarvise, gdje se nalazi?
 1204
 01:31:08,902 --> 01:31:12,989
 <i>Pristupam Oracleovoj mreži.
-istocna obala.</i>
+istoèna obala.</i>
 
 1205
 01:31:13,114 --> 01:31:17,202
@@ -5272,16 +5272,16 @@ mojoj obitelji kroz 40 godina,
 
 1206
 01:31:18,077 --> 01:31:20,747
-ja cu napraviti tebi za 40 minuta.
+ja æu napraviti tebi za 40 minuta.
 
 1207
 01:31:20,914 --> 01:31:22,832
-U redu. Daj da se nadjemo
+U redu. Daj da se naðemo
 i raspravimo problem.
 
 1208
 01:31:23,124 --> 01:31:24,417
-<i>Podrucje tri savezne države.</i>
+<i>Podruèje tri savezne države.</i>
 
 1209
 01:31:24,584 --> 01:31:26,753
@@ -5323,7 +5323,7 @@ I metalu.
 
 1218
 01:32:15,093 --> 01:32:16,844
-Auto ce biti tu dolje.
+Auto æe biti tu dolje.
 
 1219
 01:32:16,969 --> 01:32:18,221
@@ -5345,7 +5345,7 @@ Dame i gospodo, ova zemlja
 
 1223
 01:32:50,002 --> 01:32:54,465
-vec predugo mora dovoditi hrabre
+veæ predugo mora dovoditi hrabre
 muškarce i žene u pogibeljne situacije.
 
 1224
@@ -5387,11 +5387,11 @@ Eto, danas, prijatelji,
 1232
 01:33:15,695 --> 01:33:19,115
 pred novinarima
-stoji posve drugaciji problem.
+stoji posve drugaèiji problem.
 
 1233
 01:33:19,657 --> 01:33:22,118
-Uskoro ce im ponestati tinte.
+Uskoro æe im ponestati tinte.
 
 1234
 01:33:27,706 --> 01:33:29,625
@@ -5432,7 +5432,7 @@ Marinci!
 
 1243
 01:34:38,694 --> 01:34:41,613
-Daleko bolje od hrpe plesacica.
+Daleko bolje od hrpe plesaèica.
 
 1244
 01:34:43,407 --> 01:34:46,201
@@ -5441,8 +5441,8 @@ ova tehnologija bila,
 
 1245
 01:34:46,326 --> 01:34:50,038
-uvijek cemo imati potrebu za
-nazocnošcu covjeka na bojištu.
+uvijek æemo imati potrebu za
+nazoènošæu èovjeka na bojištu.
 
 1246
 01:34:50,622 --> 01:34:53,625
@@ -5491,20 +5491,20 @@ Mahni im.
 1256
 01:35:56,730 --> 01:35:58,690
 Ti su ljudi u opasnosti.
-Moramo ih izvuci odavde.
+Moramo ih izvuæi odavde.
 
 1257
 01:35:58,815 --> 01:36:00,776
-Vjeruj mi iducih pet minuta.
+Vjeruj mi iduæih pet minuta.
 
 1258
 01:36:00,901 --> 01:36:02,944
 Kad sam to pokušao,
-razbacao si me po kuci.
+razbacao si me po kuæi.
 
 1259
 01:36:03,070 --> 01:36:05,072
-Mislim da suradjuje s Vankom.
+Mislim da suraðuje s Vankom.
 
 1260
 01:36:05,238 --> 01:36:06,782
@@ -5526,7 +5526,7 @@ Tko?
 
 1264
 01:36:15,290 --> 01:36:17,250
-Odakle ti tu, covjece?
+Odakle ti tu, èovjeèe?
 
 1265
 01:36:23,423 --> 01:36:25,801
@@ -5535,7 +5535,7 @@ To ti radiš?
 
 1266
 01:36:26,927 --> 01:36:29,596
-Ne mogu se pokrenuti, zakljucan sam!
+Ne mogu se pokrenuti, zakljuèan sam!
 
 1267
 01:36:30,430 --> 01:36:32,557
@@ -5583,7 +5583,7 @@ Oduzeo nam je bespilotne.
 
 1277
 01:37:38,331 --> 01:37:39,374
-Nemoguce.
+Nemoguæe.
 
 1278
 01:37:39,499 --> 01:37:41,126
@@ -5600,8 +5600,8 @@ Ne rade ni mobiteli.
 
 1281
 01:37:45,088 --> 01:37:46,256
-Sprijecio nam je pristup
-glavnom racunalu.
+Sprijeèio nam je pristup
+glavnom raèunalu.
 
 1282
 01:37:46,381 --> 01:37:47,549
@@ -5654,7 +5654,7 @@ Newyoršku policiju, molim.
 1293
 01:38:15,368 --> 01:38:16,494
 Zapovjednu centralu.
-- Ne, sreco.
+- Ne, sreæo.
 
 1294
 01:38:16,619 --> 01:38:18,496
@@ -5688,7 +5688,7 @@ Ne vozim ja tebe nikamo.
 
 1301
 01:39:00,121 --> 01:39:02,623
-Neka, ja cu. Ulazi u auto!
+Neka, ja æu. Ulazi u auto!
 
 1302
 01:40:01,140 --> 01:40:02,767
@@ -5705,7 +5705,7 @@ Kad stignemo, stražari vani.
 
 1305
 01:40:15,821 --> 01:40:19,450
-Ja cu uci u pogon i ukloniti metu.
+Ja æu uæi u pogon i ukloniti metu.
 
 1306
 01:40:21,744 --> 01:40:24,330
@@ -5715,7 +5715,7 @@ Gledaj u cestu.
 1307
 01:40:55,945 --> 01:40:57,947
 Dio njih se upravo odvojio,
-vracaju se u Expo.
+vraæaju se u Expo.
 
 1308
 01:40:58,072 --> 01:40:59,365
@@ -5732,7 +5732,7 @@ Stižu bojni projektili, Tony!
 1311
 01:41:22,971 --> 01:41:25,641
 Ostani u autu.
-- Necu ostati u autu.
+- Neæu ostati u autu.
 
 1312
 01:41:25,766 --> 01:41:27,267
@@ -5744,11 +5744,11 @@ Kažem ti, ostani u autu.
 
 1314
 01:41:30,771 --> 01:41:33,023
-Neceš sama unutra.
+Neæeš sama unutra.
 
 1315
 01:41:33,148 --> 01:41:34,525
-Hoceš pomoci? Ne gasi auto.
+Hoæeš pomoæi? Ne gasi auto.
 
 1316
 01:41:39,446 --> 01:41:41,698
@@ -5778,11 +5778,11 @@ Još si na meti?
 
 1322
 01:43:43,528 --> 01:43:46,990
-Drži muda od labuda. Stiže peracina.
+Drži muda od labuda. Stiže peraèina.
 
 1323
 01:43:49,200 --> 01:43:50,243
-Cekaj, cekaj!
+Èekaj, èekaj!
 
 1324
 01:44:09,888 --> 01:44:11,264
@@ -5791,7 +5791,7 @@ Nema ga!
 1325
 01:44:15,393 --> 01:44:17,395
 Oprosti, kompa.
-Morao sam razrijediti copor.
+Morao sam razrijediti èopor.
 
 1326
 01:44:18,229 --> 01:44:20,023
@@ -5812,16 +5812,16 @@ Restart dovršen.
 
 1330
 01:45:00,813 --> 01:45:02,523
-Vracen ti je najbolji prijatelj.
+Vraæen ti je najbolji prijatelj.
 
 1331
 01:45:02,649 --> 01:45:05,985
 <i>Hvala, agentice Romanova.
-- Svaka cast na novom prsnom reaktoru.</i>
+- Svaka èast na novom prsnom reaktoru.</i>
 
 1332
 01:45:06,110 --> 01:45:09,739
-Ocitavam vecu snagu,
+Oèitavam veæu snagu,
 a svi ti vitalni podaci djeluju pozitivno.
 
 1333
@@ -5843,7 +5843,7 @@ a svi ti vitalni podaci djeluju pozitivno.
 
 1337
 01:45:18,331 --> 01:45:20,041
-<i>Htio sam ti reci.</i>
+<i>Htio sam ti reæi.</i>
 
 1338
 01:45:20,166 --> 01:45:21,626
@@ -5851,11 +5851,11 @@ a svi ti vitalni podaci djeluju pozitivno.
 
 1339
 01:45:23,586 --> 01:45:26,297
-<i>Mislio sam ti reci kad ti spremim omlet!</i>
+<i>Mislio sam ti reæi kad ti spremim omlet!</i>
 
 1340
 01:45:26,422 --> 01:45:29,342
-Ostavite to za medeni mjesec. Dolijecu.
+Ostavite to za medeni mjesec. Dolijeæu.
 
 1341
 01:45:29,467 --> 01:45:31,010
@@ -5872,7 +5872,7 @@ Borba stiže vama.
 
 1344
 01:45:34,347 --> 01:45:35,890
-<i>ispricat cu ti se...
+<i>isprièat æu ti se...
 - Ljutim se.</i>
 
 1345
@@ -5914,7 +5914,7 @@ Jesam, hvala.
 
 1354
 01:46:06,087 --> 01:46:08,464
-Tony, cuj... žao mi je.
+Tony, èuj... žao mi je.
 - Ma pusti to.
 
 1355
@@ -5927,12 +5927,12 @@ Ja sam ti kriv za ovo. Pusti.
 
 1357
 01:46:11,550 --> 01:46:13,844
-Ne, tocno, ti si kriv.
-Samo sam ti htio reci da mi je žao.
+Ne, toèno, ti si kriv.
+Samo sam ti htio reæi da mi je žao.
 
 1358
 01:46:13,970 --> 01:46:17,223
-Hvala. Samo sam to htio cuti... partneru.
+Hvala. Samo sam to htio èuti... partneru.
 
 1359
 01:46:17,515 --> 01:46:21,060
@@ -5945,7 +5945,7 @@ Idemo na uzvisinu.
 
 1361
 01:46:23,437 --> 01:46:24,981
-Stavimo najjace oružje na onaj greben.
+Stavimo najjaèe oružje na onaj greben.
 
 1362
 01:46:25,106 --> 01:46:26,357
@@ -5964,7 +5964,7 @@ Kako to misliš?
 1365
 01:46:30,111 --> 01:46:32,071
 Ti imaš jako oružje.
-- Nisi zato najjace oružje.
+- Nisi zato najjaèe oružje.
 
 1366
 01:46:32,196 --> 01:46:33,531
@@ -5982,7 +5982,7 @@ To se zove biti štemer.
 
 1369
 01:46:38,119 --> 01:46:41,455
-U redu. Idi ti gore, a ja cu ih privuci.
+U redu. Idi ti gore, a ja æu ih privuæi.
 
 1370
 01:46:41,580 --> 01:46:43,416
@@ -5990,7 +5990,7 @@ Nemoj ostajati tu dolje.
 
 1371
 01:46:43,541 --> 01:46:44,750
-Ti imaš kamo, a gdje cu ja?
+Ti imaš kamo, a gdje æu ja?
 
 1372
 01:46:44,875 --> 01:46:47,753
@@ -6012,7 +6012,7 @@ Dolje!
 
 1376
 01:48:01,618 --> 01:48:04,037
-Opa. Iduci put pocni s tim.
+Opa. Iduæi put poèni s tim.
 
 1377
 01:48:04,163 --> 01:48:07,458
@@ -6029,16 +6029,16 @@ To je taj kojega tražite.
 
 1380
 01:48:16,133 --> 01:48:18,093
-Gospodine, uhiceni ste.
+Gospodine, uhiæeni ste.
 
 1381
 01:48:18,218 --> 01:48:19,636
 Šalite se?
-- Ruke iza ledja.
+- Ruke iza leða.
 
 1382
 01:48:19,761 --> 01:48:21,346
-Pa ja nastojim pomoci,
+Pa ja nastojim pomoæi,
 
 1383
 01:48:25,517 --> 01:48:29,021
@@ -6051,7 +6051,7 @@ Neka.
 
 1385
 01:48:30,814 --> 01:48:33,692
-Pocinješ razmišljati kao CEO:
+Poèinješ razmišljati kao CEO:
 Uklanjaš konkurenciju.
 
 1386
@@ -6061,7 +6061,7 @@ Misliš da si mi stvorila problem?
 
 1387
 01:48:36,403 --> 01:48:37,446
-Ja cu ga stvoriti tebi.
+Ja æu ga stvoriti tebi.
 
 1388
 01:48:37,571 --> 01:48:40,532
@@ -6073,7 +6073,7 @@ Kad stignu,
 
 1390
 01:48:46,371 --> 01:48:49,166
-postavite ih na jugoistocni
+postavite ih na jugoistoèni
 i oba zapadna izlaza.
 
 1391
@@ -6091,7 +6091,7 @@ Idete s nama?
 
 1394
 01:48:55,964 --> 01:48:59,384
-Ne, ostat cu dok se park ne rašcisti.
+Ne, ostat æu dok se park ne rašèisti.
 
 1395
 01:49:01,178 --> 01:49:03,638
@@ -6099,11 +6099,11 @@ Pažnja. Stiže još jedan bespilotni.
 
 1396
 01:49:03,805 --> 01:49:05,098
-Ovaj izgleda drugacije.
+Ovaj izgleda drugaèije.
 
 1397
 01:49:05,599 --> 01:49:07,934
-<i>Repulzorski trag znatno je jaci.</i>
+<i>Repulzorski trag znatno je jaèi.</i>
 
 1398
 01:49:19,071 --> 01:49:20,697
@@ -6111,7 +6111,7 @@ Lijepo se vratiti.
 
 1399
 01:49:21,323 --> 01:49:22,657
-Ovo nece izaci na dobro.
+Ovo neæe izaæi na dobro.
 
 1400
 01:49:26,286 --> 01:49:28,330
@@ -6119,11 +6119,11 @@ Imam poslasticu za njega.
 
 1401
 01:49:28,497 --> 01:49:30,582
-Razvalit cu mu bunker "bivšom ženom".
+Razvalit æu mu bunker "bivšom ženom".
 
 1402
 01:49:30,707 --> 01:49:32,125
-Cime?
+Èime?
 
 1403
 01:49:42,552 --> 01:49:45,013
@@ -6140,12 +6140,12 @@ Rhodes! Sjetio sam se,
 
 1406
 01:50:43,780 --> 01:50:46,241
-Hoceš biti junak?
+Hoæeš biti junak?
 - Što?
 
 1407
 01:50:46,616 --> 01:50:49,536
-Baš mi treba pomagac. Podigni ruku!
+Baš mi treba pomagaè. Podigni ruku!
 
 1408
 01:50:49,661 --> 01:50:51,496
@@ -6194,7 +6194,7 @@ taj stres.
 
 1418
 01:52:28,092 --> 01:52:32,555
-Nikad ne znam hoceš li se ubiti
+Nikad ne znam hoæeš li se ubiti
 ili upropastiti kompaniju, ili...
 
 1419
@@ -6215,8 +6215,8 @@ Gotovo je.
 
 1423
 01:52:43,357 --> 01:52:46,819
-Koje iznenadjenje.
-Ne, nije. Shvacam.
+Koje iznenaðenje.
+Ne, nije. Shvaæam.
 
 1424
 01:52:47,278 --> 01:52:50,531
@@ -6257,12 +6257,12 @@ Hvala ti.
 
 1433
 01:53:06,630 --> 01:53:09,550
-Hvala ti što shvacaš.
-- Da popricamo o cišcenju.
+Hvala ti što shvaæaš.
+- Da poprièamo o èišæenju.
 
 1434
 01:53:09,675 --> 01:53:12,344
-Riješit cu prijelazno razdoblje.
+Riješit æu prijelazno razdoblje.
 - A tisak?
 
 1435
@@ -6272,7 +6272,7 @@ provela tek tjedan dana.
 
 1436
 01:53:14,388 --> 01:53:16,057
-Pa, uz tebe su to kao psece godine.
+Pa, uz tebe su to kao pseæe godine.
 
 1437
 01:53:16,182 --> 01:53:17,516
@@ -6280,7 +6280,7 @@ Ili predsjednikovanje...
 
 1438
 01:53:30,613 --> 01:53:31,822
-Cudno.
+Èudno.
 
 1439
 01:53:32,114 --> 01:53:33,574
@@ -6293,12 +6293,12 @@ Daj mi to ponovi.
 
 1441
 01:53:35,701 --> 01:53:37,536
-Meni je bilo cudno.
+Meni je bilo èudno.
 
 1442
 01:53:37,995 --> 01:53:40,915
 Izgledate kao dva tuljana
-u borbi za zrno groždja.
+u borbi za zrno grožða.
 
 1443
 01:53:41,499 --> 01:53:43,918
@@ -6307,12 +6307,12 @@ Sad sam dala otkaz, pa nije...
 1444
 01:53:44,043 --> 01:53:46,504
 Ne moraš objašnjavati.
-Sve sam cuo.
+Sve sam èuo.
 
 1445
 01:53:46,629 --> 01:53:49,506
 Daj ti briši.
-- Došao sam prvi. Nadjite si krov.
+- Došao sam prvi. Naðite si krov.
 
 1446
 01:53:50,466 --> 01:53:52,968
@@ -6322,7 +6322,7 @@ Mislio sam da ti je ponestalo dosjetki.
 1447
 01:53:53,093 --> 01:53:55,679
 Baš si bio štemer.
-- Hvala. Ti takodjer.
+- Hvala. Ti takoðer.
 
 1448
 01:53:55,804 --> 01:53:58,265
@@ -6343,11 +6343,11 @@ To nije bilo pitanje.
 
 1452
 01:54:10,819 --> 01:54:14,114
-Kako ceš dati otkaz ako ja ne prihvatim?
+Kako æeš dati otkaz ako ja ne prihvatim?
 
 1453
 01:54:26,543 --> 01:54:28,295
-OSVETNICKA INICIJATIVA
+OSVETNIÈKA INICIJATIVA
 
 1454
 01:54:28,420 --> 01:54:30,214
@@ -6359,7 +6359,7 @@ Radije ne bih da to gledaš.
 
 1456
 01:54:37,096 --> 01:54:39,223
-Moguce je da se više
+Moguæe je da se više
 ne odnosi na tebe.
 
 1457
@@ -6369,7 +6369,7 @@ iz pera agentice Romanova.
 
 1458
 01:54:45,854 --> 01:54:46,897
-Procitaj.
+Proèitaj.
 
 1459
 01:54:48,857 --> 01:54:52,820
@@ -6392,7 +6392,7 @@ Zar nismo svi takvi?
 
 1463
 01:55:03,080 --> 01:55:05,874
-"Udžbenicki... narcisoidan"?
+"Udžbenièki... narcisoidan"?
 
 1464
 01:55:07,960 --> 01:55:09,002
@@ -6405,12 +6405,12 @@ Evo ga.
 1466
 01:55:11,588 --> 01:55:14,883
 "Procjena prihvatljivosti za pristup
-Osvetnicka Inicijativa." "Iron Man: Da."
+Osvetnièka Inicijativa." "Iron Man: Da."
 
 1467
 01:55:15,008 --> 01:55:17,511
 Moram razmisliti o tome.
-- Citaj dalje.
+- Èitaj dalje.
 
 1468
 01:55:20,097 --> 01:55:21,598
@@ -6418,7 +6418,7 @@ Moram razmisliti o tome.
 
 1469
 01:55:21,723 --> 01:55:23,225
-"Ne preporuca se"?
+"Ne preporuèa se"?
 
 1470
 01:55:24,476 --> 01:55:25,644
@@ -6444,7 +6444,7 @@ Imam... recimo stabilnu vezu.
 
 1475
 01:55:38,198 --> 01:55:40,033
-Zato zakljucujemo
+Zato zakljuèujemo
 
 1476
 01:55:40,158 --> 01:55:43,286
@@ -6457,8 +6457,8 @@ Preskup sam za vas.
 
 1478
 01:55:54,464 --> 01:55:56,675
-S druge strane, odreci cu se
-svog uobicajenog honorara
+S druge strane, odreæi æu se
+svog uobièajenog honorara
 
 1479
 01:55:56,800 --> 01:55:59,636
@@ -6467,16 +6467,16 @@ u zamjenu za malu uslugu.
 1480
 01:56:00,637 --> 01:56:05,517
 Rhodey i ja dobivamo odlikovanja u
-Washingtonu. Netko ih treba uruciti.
+Washingtonu. Netko ih treba uruèiti.
 
 1481
 01:56:07,394 --> 01:56:08,854
-Vidjet cu što se može.
+Vidjet æu što se može.
 
 1482
 01:56:10,605 --> 01:56:15,402
-Cast mi je danas biti ovdje
-da urucim ova cijenjena odlicja
+Èast mi je danas biti ovdje
+da uruèim ova cijenjena odlièja
 
 1483
 01:56:15,527 --> 01:56:19,489
@@ -6519,8 +6519,8 @@ Pardon.
 
 1492
 01:56:44,139 --> 01:56:47,517
-Cudo jedno kako bockanje
-iziritira covjeka, zar ne?
+Èudo jedno kako bockanje
+iziritira èovjeka, zar ne?
 
 1493
 01:56:49,019 --> 01:56:50,770
@@ -6529,7 +6529,7 @@ Da se slikamo.
 1494
 02:03:57,695 --> 02:04:00,615
 NOVI MEKSIKO
-ZEMLJA CAROLIJA
+ZEMLJA ÈAROLIJA
 
 1495
 02:04:16,965 --> 02:04:18,842
